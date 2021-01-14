@@ -18,6 +18,7 @@
 - ⚡ Fun fact **I love to work in silence**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
