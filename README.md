@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rahulism.co](https://rahulism.co)
 
-- 📝 I regularly write articles on [https://blog.rahulism.co](https://blog.rahulism.co)
+- 📝 I regularly write articles on [https://rahulism.tech](https://rahulism.tech)
 
 - 💬 Ask me about **JavaScript, React, Designing and Productivity**
 
