@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/rahxul" target="blank"><img src="https://img.shields.io/twitter/follow/rahxul?logo=twitter&style=for-the-badge" alt="rahxul" /></a> </p>
 
-- 🔭 I’m currently working on **Dashing - Productivity App**
+- 🔭 I’m currently working on **Many Things 🥺**
 
 - 🌱 I’m currently learning **React, Node.js and MongoDB**
 
@@ -17,10 +17,7 @@
 
 - ⚡ Fun fact **I love to work in silence**
 
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
