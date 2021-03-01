@@ -77,3 +77,4 @@ Also called d... </p> <br/> <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahxuls&show_icons=true&locale=en" alt="rahxuls" /></p>
 
+**Page Views**(Counting since 30th Nov 2020): ![Visitor Count](https://profile-counter.glitch.me/rahxuls/count.svg)
