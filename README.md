@@ -22,7 +22,41 @@
 ### My Recent Posts
 
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://rahulism.tech/mastering-responsive-web-design" title="Mastering responsive Web Design"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614402001812/Yz9QCHTX_.png" alt="Mastering responsive Web Design" width="250px" align="left" /></a>
+<a href="https://rahulism.tech/mastering-responsive-web-design" title="Mastering responsive Web Design"><strong>Mastering responsive Web Design</strong></a>
+<br/> I haven't posted anything from the last somedays. Though I have written 12 articles related to JavaScript, React and CSS. 
+I still struggle with making the website responsive. I know beginners surf on the web(i had done this earlier) to make the webs... </p> <br/> <br/>
+<p align="left">
+<a href="https://rahulism.tech/what-is-debouncing-in-javascript" title="What is Debouncing in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614315887495/1G2nF78RX.jpeg" alt="What is Debouncing in JavaScript?" width="250px" align="left" /></a>
+<a href="https://rahulism.tech/what-is-debouncing-in-javascript" title="What is Debouncing in JavaScript?"><strong>What is Debouncing in JavaScript?</strong></a>
+<br/> Debouncing in JavaScript means you can control the rate at which a function can execute. You can also think of Debouncing as High Order Function which is used to control the limit at which a function can execute. 
+Creating a debounce
+function _deboun... </p> <br/> <br/>
+<p align="left">
+<a href="https://rahulism.tech/mastering-css-animation" title="Mastering CSS Animation"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613965570626/DkBQVujIm.png" alt="Mastering CSS Animation" width="250px" align="left" /></a>
+<a href="https://rahulism.tech/mastering-css-animation" title="Mastering CSS Animation"><strong>Mastering CSS Animation</strong></a>
+<br/> Web Animation can be used to attract attention, engage people better, and communicate more clearly and effectively. 
+It can engage and hold people's attention longer than just a static web page. 
 
+The @keyframes rule
+When you specify CSS styles insid... </p> <br/> <br/>
+<p align="left">
+<a href="https://rahulism.tech/cookies-vs-sessions" title="Cookies vs Sessions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613878991820/oYdQV68VW.png" alt="Cookies vs Sessions" width="250px" align="left" /></a>
+<a href="https://rahulism.tech/cookies-vs-sessions" title="Cookies vs Sessions"><strong>Cookies vs Sessions</strong></a>
+<br/> The concept of Cookies and Session is very fundamental and every developer should know this. 
+
+What is a Cookie?
+A cookie is a small file with a maximum size of 4KB that the web server stores on the client computer. 
+Once a cookie has been set, all p... </p> <br/> <br/>
+<p align="left">
+<a href="https://rahulism.tech/4-ways-of-creating-react-components" title="4 Ways of creating React Components"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613878557536/x_ZJl_U_H.png" alt="4 Ways of creating React Components" width="250px" align="left" /></a>
+<a href="https://rahulism.tech/4-ways-of-creating-react-components" title="4 Ways of creating React Components"><strong>4 Ways of creating React Components</strong></a>
+<br/> Most developers probably know only the 2 most fundamentals types of components. But technology is developing every day, right? And now there are 4 types. 
+To be relevant, we must keep our tech skills up-to-date ;)
+
+Functional Components
+Also called d... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
