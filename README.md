@@ -23,6 +23,12 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.tech/how-to-apply-ux-to-your-website" title="How to apply UX to your website?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614566764413/5W_M6NQPx.png" alt="How to apply UX to your website?" width="250px" align="left" /></a>
+<a href="https://rahulism.tech/how-to-apply-ux-to-your-website" title="How to apply UX to your website?"><strong>How to apply UX to your website?</strong></a>
+<br/> User Experience is a must on the website as that is the thing people experience first. There are 99% chances that the visitor will go whether you have amazing content but if you don't have good UX. Let's see how we can apply UX to our website. 
+
+Make... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.tech/mastering-responsive-web-design" title="Mastering responsive Web Design"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614402001812/Yz9QCHTX_.png" alt="Mastering responsive Web Design" width="250px" align="left" /></a>
 <a href="https://rahulism.tech/mastering-responsive-web-design" title="Mastering responsive Web Design"><strong>Mastering responsive Web Design</strong></a>
 <br/> I haven't posted anything from the last somedays. Though I have written 12 articles related to JavaScript, React and CSS. 
@@ -49,14 +55,6 @@ When you specify CSS styles insid... </p> <br/> <br/>
 What is a Cookie?
 A cookie is a small file with a maximum size of 4KB that the web server stores on the client computer. 
 Once a cookie has been set, all p... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.tech/4-ways-of-creating-react-components" title="4 Ways of creating React Components"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613878557536/x_ZJl_U_H.png" alt="4 Ways of creating React Components" width="250px" align="left" /></a>
-<a href="https://rahulism.tech/4-ways-of-creating-react-components" title="4 Ways of creating React Components"><strong>4 Ways of creating React Components</strong></a>
-<br/> Most developers probably know only the 2 most fundamentals types of components. But technology is developing every day, right? And now there are 4 types. 
-To be relevant, we must keep our tech skills up-to-date ;)
-
-Functional Components
-Also called d... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
