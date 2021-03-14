@@ -19,6 +19,6 @@ jobs:
           USERNAME: 'RAHULISM'
           COUNT: 5
           STYLE: "blog-left"
-          BLOG_URL: 'https://rahulism.tech'
+          BLOG_URL: 'https://rahulism.hashnode.dev'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
