@@ -23,33 +23,33 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://rahulism.tech/how-to-apply-ux-to-your-website" title="How to apply UX to your website?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614566764413/5W_M6NQPx.png" alt="How to apply UX to your website?" width="250px" align="left" /></a>
-<a href="https://rahulism.tech/how-to-apply-ux-to-your-website" title="How to apply UX to your website?"><strong>How to apply UX to your website?</strong></a>
+<a href="https://rahulism.hashnode.dev/how-to-apply-ux-to-your-website" title="How to apply UX to your website?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614566764413/5W_M6NQPx.png" alt="How to apply UX to your website?" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/how-to-apply-ux-to-your-website" title="How to apply UX to your website?"><strong>How to apply UX to your website?</strong></a>
 <br/> User Experience is a must on the website as that is the thing people experience first. There are 99% chances that the visitor will go whether you have amazing content but if you don't have good UX. Let's see how we can apply UX to our website. 
 
 Make... </p> <br/> <br/>
 <p align="left">
-<a href="https://rahulism.tech/mastering-responsive-web-design" title="Mastering responsive Web Design"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614402001812/Yz9QCHTX_.png" alt="Mastering responsive Web Design" width="250px" align="left" /></a>
-<a href="https://rahulism.tech/mastering-responsive-web-design" title="Mastering responsive Web Design"><strong>Mastering responsive Web Design</strong></a>
+<a href="https://rahulism.hashnode.dev/mastering-responsive-web-design" title="Mastering responsive Web Design"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614402001812/Yz9QCHTX_.png" alt="Mastering responsive Web Design" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/mastering-responsive-web-design" title="Mastering responsive Web Design"><strong>Mastering responsive Web Design</strong></a>
 <br/> I haven't posted anything from the last somedays. Though I have written 12 articles related to JavaScript, React and CSS. 
 I still struggle with making the website responsive. I know beginners surf on the web(i had done this earlier) to make the webs... </p> <br/> <br/>
 <p align="left">
-<a href="https://rahulism.tech/what-is-debouncing-in-javascript" title="What is Debouncing in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614315887495/1G2nF78RX.jpeg" alt="What is Debouncing in JavaScript?" width="250px" align="left" /></a>
-<a href="https://rahulism.tech/what-is-debouncing-in-javascript" title="What is Debouncing in JavaScript?"><strong>What is Debouncing in JavaScript?</strong></a>
+<a href="https://rahulism.hashnode.dev/what-is-debouncing-in-javascript" title="What is Debouncing in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614315887495/1G2nF78RX.jpeg" alt="What is Debouncing in JavaScript?" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/what-is-debouncing-in-javascript" title="What is Debouncing in JavaScript?"><strong>What is Debouncing in JavaScript?</strong></a>
 <br/> Debouncing in JavaScript means you can control the rate at which a function can execute. You can also think of Debouncing as High Order Function which is used to control the limit at which a function can execute. 
 Creating a debounce
 function _deboun... </p> <br/> <br/>
 <p align="left">
-<a href="https://rahulism.tech/mastering-css-animation" title="Mastering CSS Animation"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613965570626/DkBQVujIm.png" alt="Mastering CSS Animation" width="250px" align="left" /></a>
-<a href="https://rahulism.tech/mastering-css-animation" title="Mastering CSS Animation"><strong>Mastering CSS Animation</strong></a>
+<a href="https://rahulism.hashnode.dev/mastering-css-animation" title="Mastering CSS Animation"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613965570626/DkBQVujIm.png" alt="Mastering CSS Animation" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/mastering-css-animation" title="Mastering CSS Animation"><strong>Mastering CSS Animation</strong></a>
 <br/> Web Animation can be used to attract attention, engage people better, and communicate more clearly and effectively. 
 It can engage and hold people's attention longer than just a static web page. 
 
 The @keyframes rule
 When you specify CSS styles insid... </p> <br/> <br/>
 <p align="left">
-<a href="https://rahulism.tech/cookies-vs-sessions" title="Cookies vs Sessions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613878991820/oYdQV68VW.png" alt="Cookies vs Sessions" width="250px" align="left" /></a>
-<a href="https://rahulism.tech/cookies-vs-sessions" title="Cookies vs Sessions"><strong>Cookies vs Sessions</strong></a>
+<a href="https://rahulism.hashnode.dev/cookies-vs-sessions" title="Cookies vs Sessions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613878991820/oYdQV68VW.png" alt="Cookies vs Sessions" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/cookies-vs-sessions" title="Cookies vs Sessions"><strong>Cookies vs Sessions</strong></a>
 <br/> The concept of Cookies and Session is very fundamental and every developer should know this. 
 
 What is a Cookie?
