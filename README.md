@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Node.js and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://rahulism.co](https://rahulism.co)
+- 👨‍💻 All of my projects are available at [https://rahulism.co](https://portfolio.rahulism.tech/)
 
 - 📝 I regularly write articles on [https://rahulism.hashnode.dev](https://rahulism.hashnode.dev)
 
