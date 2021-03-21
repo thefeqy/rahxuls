@@ -23,6 +23,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/async-vs-defer-attribute" title="Async vs Defer attribute"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616208647440/qmwwYRtRF.png" alt="Async vs Defer attribute" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/async-vs-defer-attribute" title="Async vs Defer attribute"><strong>Async vs Defer attribute</strong></a>
+<br/> I'm back after a 20 days without any blogs. Will be posting about what I did in these 20 days. So here's my new post about async vs defer attribute in JavaScript. Let's go. 
+When you load a webpage then there are two major things happening in your br... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/how-to-apply-ux-to-your-website" title="How to apply UX to your website?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614566764413/5W_M6NQPx.png" alt="How to apply UX to your website?" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/how-to-apply-ux-to-your-website" title="How to apply UX to your website?"><strong>How to apply UX to your website?</strong></a>
 <br/> User Experience is a must on the website as that is the thing people experience first. There are 99% chances that the visitor will go whether you have amazing content but if you don't have good UX. Let's see how we can apply UX to our website. 
@@ -47,14 +52,6 @@ It can engage and hold people's attention longer than just a static web page.
 
 The @keyframes rule
 When you specify CSS styles insid... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/cookies-vs-sessions" title="Cookies vs Sessions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613878991820/oYdQV68VW.png" alt="Cookies vs Sessions" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/cookies-vs-sessions" title="Cookies vs Sessions"><strong>Cookies vs Sessions</strong></a>
-<br/> The concept of Cookies and Session is very fundamental and every developer should know this. 
-
-What is a Cookie?
-A cookie is a small file with a maximum size of 4KB that the web server stores on the client computer. 
-Once a cookie has been set, all p... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
