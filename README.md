@@ -23,6 +23,14 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/what-is-env" title="What is .env?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616294371927/z467d9tu7.png" alt="What is .env?" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/what-is-env" title="What is .env?"><strong>What is .env?</strong></a>
+<br/> In this tutorial, we will implement a .env into our NodeJS app to store environment variables inside of it.
+Here I will introduce how you can use environment variables and for what you should use them. Let's Go. 
+
+dotenv
+Dotenv is a zero-dependency m... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/async-vs-defer-attribute" title="Async vs Defer attribute"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616208647440/qmwwYRtRF.png" alt="Async vs Defer attribute" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/async-vs-defer-attribute" title="Async vs Defer attribute"><strong>Async vs Defer attribute</strong></a>
 <br/> I'm back after a 20 days without any blogs. Will be posting about what I did in these 20 days. So here's my new post about async vs defer attribute in JavaScript. Let's go. 
@@ -44,14 +52,6 @@ I still struggle with making the website responsive. I know beginners surf on th
 <br/> Debouncing in JavaScript means you can control the rate at which a function can execute. You can also think of Debouncing as High Order Function which is used to control the limit at which a function can execute. 
 Creating a debounce
 function _deboun... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/mastering-css-animation" title="Mastering CSS Animation"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613965570626/DkBQVujIm.png" alt="Mastering CSS Animation" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/mastering-css-animation" title="Mastering CSS Animation"><strong>Mastering CSS Animation</strong></a>
-<br/> Web Animation can be used to attract attention, engage people better, and communicate more clearly and effectively. 
-It can engage and hold people's attention longer than just a static web page. 
-
-The @keyframes rule
-When you specify CSS styles insid... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
