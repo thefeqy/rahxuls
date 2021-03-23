@@ -23,6 +23,12 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/what-is-localstorage" title="What is localStorage?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616382950432/voJ-J-h1e.png" alt="What is localStorage?" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/what-is-localstorage" title="What is localStorage?"><strong>What is localStorage?</strong></a>
+<br/> Local Storage let us save the data which is stored in the browser even when a user refreshes or closes a page. Let's know more about what is Local Storage in JavaScript. 
+
+Local Storage holds 2 - 100MB+ data. Saved all data in string(JSON) format. It... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-is-env" title="What is .env?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616294371927/z467d9tu7.png" alt="What is .env?" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-is-env" title="What is .env?"><strong>What is .env?</strong></a>
 <br/> In this tutorial, we will implement a .env into our NodeJS app to store environment variables inside of it.
@@ -46,12 +52,6 @@ Make... </p> <br/> <br/>
 <a href="https://rahulism.hashnode.dev/mastering-responsive-web-design" title="Mastering responsive Web Design"><strong>Mastering responsive Web Design</strong></a>
 <br/> I haven't posted anything from the last somedays. Though I have written 12 articles related to JavaScript, React and CSS. 
 I still struggle with making the website responsive. I know beginners surf on the web(i had done this earlier) to make the webs... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/what-is-debouncing-in-javascript" title="What is Debouncing in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614315887495/1G2nF78RX.jpeg" alt="What is Debouncing in JavaScript?" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/what-is-debouncing-in-javascript" title="What is Debouncing in JavaScript?"><strong>What is Debouncing in JavaScript?</strong></a>
-<br/> Debouncing in JavaScript means you can control the rate at which a function can execute. You can also think of Debouncing as High Order Function which is used to control the limit at which a function can execute. 
-Creating a debounce
-function _deboun... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
