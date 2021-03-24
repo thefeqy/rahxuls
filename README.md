@@ -23,6 +23,12 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/explain-me-oops-concept-in-simple-terms" title="Explain me OOP's concept in simple terms"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616467975238/6yOnbERqx.png" alt="Explain me OOP's concept in simple terms" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/explain-me-oops-concept-in-simple-terms" title="Explain me OOP's concept in simple terms"><strong>Explain me OOP's concept in simple terms</strong></a>
+<br/> --
+This short and simple post will let you know about OOP. 
+An OOP is a way of programming that enables programmers to think like they are working with a real-life institution. In OOP, objects have fields to store knowledge/state/data and can do vari... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-is-localstorage" title="What is localStorage?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616382950432/voJ-J-h1e.png" alt="What is localStorage?" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-is-localstorage" title="What is localStorage?"><strong>What is localStorage?</strong></a>
 <br/> Local Storage let us save the data which is stored in the browser even when a user refreshes or closes a page. Let's know more about what is Local Storage in JavaScript. 
@@ -47,11 +53,6 @@ When you load a webpage then there are two major things happening in your br... 
 <br/> User Experience is a must on the website as that is the thing people experience first. There are 99% chances that the visitor will go whether you have amazing content but if you don't have good UX. Let's see how we can apply UX to our website. 
 
 Make... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/mastering-responsive-web-design" title="Mastering responsive Web Design"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614402001812/Yz9QCHTX_.png" alt="Mastering responsive Web Design" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/mastering-responsive-web-design" title="Mastering responsive Web Design"><strong>Mastering responsive Web Design</strong></a>
-<br/> I haven't posted anything from the last somedays. Though I have written 12 articles related to JavaScript, React and CSS. 
-I still struggle with making the website responsive. I know beginners surf on the web(i had done this earlier) to make the webs... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
