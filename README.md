@@ -23,6 +23,17 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/navigation-with-react-router" title="Navigation with React Router"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616639765606/DZrNLxIDB.png" alt="Navigation with React Router" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/navigation-with-react-router" title="Navigation with React Router"><strong>Navigation with React Router</strong></a>
+<br/> React Router is a simple library of React inside web app for handling routes. Here we will learn Navigation with React-Router. 
+
+Basic routing with react-router-dom
+Let's see these two Components. 
+const PageOne = () => {
+    return (
+        <>
+    ... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/how-to-manage-state-in-react" title="How to manage state in React?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616554819219/Ki0Dhm7Q3.png" alt="How to manage state in React?" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/how-to-manage-state-in-react" title="How to manage state in React?"><strong>How to manage state in React?</strong></a>
 <br/> I'm sure you're thinking about application state while you make a plan for your app. You're trying to figure out how you should use React's default features. In this post we will discuss about the basics of set state for class components. Let's go. 
@@ -47,11 +58,6 @@ Here I will introduce how you can use environment variables and for what you sho
 
 dotenv
 Dotenv is a zero-dependency m... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/async-vs-defer-attribute" title="Async vs Defer attribute"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616208647440/qmwwYRtRF.png" alt="Async vs Defer attribute" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/async-vs-defer-attribute" title="Async vs Defer attribute"><strong>Async vs Defer attribute</strong></a>
-<br/> I'm back after a 20 days without any blogs. Will be posting about what I did in these 20 days. So here's my new post about async vs defer attribute in JavaScript. Let's go. 
-When you load a webpage then there are two major things happening in your br... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
