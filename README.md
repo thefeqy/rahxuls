@@ -23,6 +23,16 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/a-short-guide-to-object-creation-pattern-in-javascript" title="A short guide to Object creation pattern in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616724865538/u8wj1Jx2g.png" alt="A short guide to Object creation pattern in JavaScript" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/a-short-guide-to-object-creation-pattern-in-javascript" title="A short guide to Object creation pattern in JavaScript"><strong>A short guide to Object creation pattern in JavaScript</strong></a>
+<br/> Object creation mechanisms increase the flexibility and reuse of existing code. Here in this post, we will see the Object Creation Pattern in JavaScript. 
+
+Some patterns to create an object are: 
+
+Factory pattern
+Constructor pattern
+Prototype pattern... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/navigation-with-react-router" title="Navigation with React Router"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616639765606/DZrNLxIDB.png" alt="Navigation with React Router" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/navigation-with-react-router" title="Navigation with React Router"><strong>Navigation with React Router</strong></a>
 <br/> React Router is a simple library of React inside web app for handling routes. Here we will learn Navigation with React-Router. 
@@ -50,14 +60,6 @@ An OOP is a way of programming that enables programmers to think like they are w
 <br/> Local Storage let us save the data which is stored in the browser even when a user refreshes or closes a page. Let's know more about what is Local Storage in JavaScript. 
 
 Local Storage holds 2 - 100MB+ data. Saved all data in string(JSON) format. It... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/what-is-env" title="What is .env?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616294371927/z467d9tu7.png" alt="What is .env?" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/what-is-env" title="What is .env?"><strong>What is .env?</strong></a>
-<br/> In this tutorial, we will implement a .env into our NodeJS app to store environment variables inside of it.
-Here I will introduce how you can use environment variables and for what you should use them. Let's Go. 
-
-dotenv
-Dotenv is a zero-dependency m... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
