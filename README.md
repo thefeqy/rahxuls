@@ -23,6 +23,13 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/what-are-react-functional-components" title="What are React functional components?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616814078563/8claDJ6vX.png" alt="What are React functional components?" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/what-are-react-functional-components" title="What are React functional components?"><strong>What are React functional components?</strong></a>
+<br/> In my post "4 Ways of creating React components" I mentioned about the Functional components. In this post we will know more about the functional components. 
+
+What is a component?
+A component is one of the core building blocks of React. Multiple ind... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/a-short-guide-to-object-creation-pattern-in-javascript" title="A short guide to Object creation pattern in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616724865538/u8wj1Jx2g.png" alt="A short guide to Object creation pattern in JavaScript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/a-short-guide-to-object-creation-pattern-in-javascript" title="A short guide to Object creation pattern in JavaScript"><strong>A short guide to Object creation pattern in JavaScript</strong></a>
 <br/> Object creation mechanisms increase the flexibility and reuse of existing code. Here in this post, we will see the Object Creation Pattern in JavaScript. 
@@ -54,12 +61,6 @@ const PageOne = () => {
 <br/> --
 This short and simple post will let you know about OOP. 
 An OOP is a way of programming that enables programmers to think like they are working with a real-life institution. In OOP, objects have fields to store knowledge/state/data and can do vari... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/what-is-localstorage" title="What is localStorage?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616382950432/voJ-J-h1e.png" alt="What is localStorage?" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/what-is-localstorage" title="What is localStorage?"><strong>What is localStorage?</strong></a>
-<br/> Local Storage let us save the data which is stored in the browser even when a user refreshes or closes a page. Let's know more about what is Local Storage in JavaScript. 
-
-Local Storage holds 2 - 100MB+ data. Saved all data in string(JSON) format. It... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
