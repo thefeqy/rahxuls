@@ -23,6 +23,13 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/what-are-class-components-or-es6-classes" title="What are class components or ES6 classes?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616900594127/9gJAlB2WU.png" alt="What are class components or ES6 classes?" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/what-are-class-components-or-es6-classes" title="What are class components or ES6 classes?"><strong>What are class components or ES6 classes?</strong></a>
+<br/> In the last, we discussed the Functional Components. In this post, we will know about the class component or ES6 Classes.
+
+Intro👋
+Class components are ES6 classes. Class components optionally receive props as input ad renders JSX. It can also mainta... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-are-react-functional-components" title="What are React functional components?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616814078563/8claDJ6vX.png" alt="What are React functional components?" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-are-react-functional-components" title="What are React functional components?"><strong>What are React functional components?</strong></a>
 <br/> In my post "4 Ways of creating React components" I mentioned about the Functional components. In this post we will know more about the functional components. 
@@ -55,12 +62,6 @@ const PageOne = () => {
 <a href="https://rahulism.hashnode.dev/how-to-manage-state-in-react" title="How to manage state in React?"><strong>How to manage state in React?</strong></a>
 <br/> I'm sure you're thinking about application state while you make a plan for your app. You're trying to figure out how you should use React's default features. In this post we will discuss about the basics of set state for class components. Let's go. 
 ... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/explain-me-oops-concept-in-simple-terms" title="Explain me OOP's concept in simple terms"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616467975238/6yOnbERqx.png" alt="Explain me OOP's concept in simple terms" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/explain-me-oops-concept-in-simple-terms" title="Explain me OOP's concept in simple terms"><strong>Explain me OOP's concept in simple terms</strong></a>
-<br/> --
-This short and simple post will let you know about OOP. 
-An OOP is a way of programming that enables programmers to think like they are working with a real-life institution. In OOP, objects have fields to store knowledge/state/data and can do vari... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
