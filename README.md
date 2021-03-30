@@ -23,6 +23,12 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/javascript-conditional-statements-if-if-else-if-else-if-switch-case" title="JavaScript Conditional Statements: if, if else, if else if, switch case"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616987078951/pe3eihPkM.png" alt="JavaScript Conditional Statements: if, if else, if else if, switch case" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/javascript-conditional-statements-if-if-else-if-else-if-switch-case" title="JavaScript Conditional Statements: if, if else, if else if, switch case"><strong>JavaScript Conditional Statements: if, if else, if else if, switch case</strong></a>
+<br/> In this latest post, we will discuss what are conditional statements in JavaScript. These statements are a bit confusing when coding, we'll learn this in a very simple way. 
+
+JavaScript supports conditional statements which are used to perform differ... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-are-class-components-or-es6-classes" title="What are class components or ES6 classes?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616900594127/9gJAlB2WU.png" alt="What are class components or ES6 classes?" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-are-class-components-or-es6-classes" title="What are class components or ES6 classes?"><strong>What are class components or ES6 classes?</strong></a>
 <br/> In the last, we discussed the Functional Components. In this post, we will know about the class component or ES6 Classes.
@@ -57,11 +63,6 @@ const PageOne = () => {
     return (
         <>
     ... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/how-to-manage-state-in-react" title="How to manage state in React?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616554819219/Ki0Dhm7Q3.png" alt="How to manage state in React?" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/how-to-manage-state-in-react" title="How to manage state in React?"><strong>How to manage state in React?</strong></a>
-<br/> I'm sure you're thinking about application state while you make a plan for your app. You're trying to figure out how you should use React's default features. In this post we will discuss about the basics of set state for class components. Let's go. 
-... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
