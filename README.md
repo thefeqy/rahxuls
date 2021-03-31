@@ -23,6 +23,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+
+<a href="https://rahulism.hashnode.dev/semantic-html-button-vs-anchor" title="Semantic HTML button vs Anchor"><strong>Semantic HTML button vs Anchor</strong></a>
+<br/> Today's post is all regarding buttons vs anchors and after you ought to use that part.
+I'm certain we've all used the incorrect part for one purpose or another however it's very necessary to think about the HTML components you're victimised about and... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/javascript-conditional-statements-if-if-else-if-else-if-switch-case" title="JavaScript Conditional Statements: if, if else, if else if, switch case"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616987078951/pe3eihPkM.png" alt="JavaScript Conditional Statements: if, if else, if else if, switch case" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/javascript-conditional-statements-if-if-else-if-else-if-switch-case" title="JavaScript Conditional Statements: if, if else, if else if, switch case"><strong>JavaScript Conditional Statements: if, if else, if else if, switch case</strong></a>
 <br/> In this latest post, we will discuss what are conditional statements in JavaScript. These statements are a bit confusing when coding, we'll learn this in a very simple way. 
@@ -52,17 +57,6 @@ Some patterns to create an object are:
 Factory pattern
 Constructor pattern
 Prototype pattern... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/navigation-with-react-router" title="Navigation with React Router"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616639765606/DZrNLxIDB.png" alt="Navigation with React Router" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/navigation-with-react-router" title="Navigation with React Router"><strong>Navigation with React Router</strong></a>
-<br/> React Router is a simple library of React inside web app for handling routes. Here we will learn Navigation with React-Router. 
-
-Basic routing with react-router-dom
-Let's see these two Components. 
-const PageOne = () => {
-    return (
-        <>
-    ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
