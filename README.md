@@ -23,6 +23,12 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/what-is-bem-methodology" title="What is BEM Methodology?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617158512035/RWit6uoL8.png" alt="What is BEM Methodology?" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/what-is-bem-methodology" title="What is BEM Methodology?"><strong>What is BEM Methodology?</strong></a>
+<br/> In this post we will discuss about the BEM in detail and why you should use it too. Let's go. 
+The simplicity of the naming convention, along side the benefit of implementation makes this a awfully fashionable alternative. 
+It creates standard and ve... </p> <br/> <br/>
+<p align="left">
 
 <a href="https://rahulism.hashnode.dev/semantic-html-button-vs-anchor" title="Semantic HTML button vs Anchor"><strong>Semantic HTML button vs Anchor</strong></a>
 <br/> Today's post is all regarding buttons vs anchors and after you ought to use that part.
@@ -47,16 +53,6 @@ Class components are ES6 classes. Class components optionally receive props as i
 
 What is a component?
 A component is one of the core building blocks of React. Multiple ind... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/a-short-guide-to-object-creation-pattern-in-javascript" title="A short guide to Object creation pattern in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616724865538/u8wj1Jx2g.png" alt="A short guide to Object creation pattern in JavaScript" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/a-short-guide-to-object-creation-pattern-in-javascript" title="A short guide to Object creation pattern in JavaScript"><strong>A short guide to Object creation pattern in JavaScript</strong></a>
-<br/> Object creation mechanisms increase the flexibility and reuse of existing code. Here in this post, we will see the Object Creation Pattern in JavaScript. 
-
-Some patterns to create an object are: 
-
-Factory pattern
-Constructor pattern
-Prototype pattern... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
