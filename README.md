@@ -23,6 +23,13 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/accessibility-checklist-for-ux-designers" title="Accessibility checklist for UX Designers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617242624434/jJPtjhk_b.png" alt="Accessibility checklist for UX Designers" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/accessibility-checklist-for-ux-designers" title="Accessibility checklist for UX Designers"><strong>Accessibility checklist for UX Designers</strong></a>
+<br/> Creating accessible style isn't that troublesome and expensive as you'll assume. Let's see the subsequent list of topics and enhancements, which may assist you with this method. 🔥🧑🏽‍💻
+
+Responsivness
+Firstly you should make sure that your design i... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-is-bem-methodology" title="What is BEM Methodology?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617158512035/RWit6uoL8.png" alt="What is BEM Methodology?" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-is-bem-methodology" title="What is BEM Methodology?"><strong>What is BEM Methodology?</strong></a>
 <br/> In this post we will discuss about the BEM in detail and why you should use it too. Let's go. 
@@ -46,13 +53,6 @@ JavaScript supports conditional statements which are used to perform differ... <
 
 Intro👋
 Class components are ES6 classes. Class components optionally receive props as input ad renders JSX. It can also mainta... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/what-are-react-functional-components" title="What are React functional components?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616814078563/8claDJ6vX.png" alt="What are React functional components?" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/what-are-react-functional-components" title="What are React functional components?"><strong>What are React functional components?</strong></a>
-<br/> In my post "4 Ways of creating React components" I mentioned about the Functional components. In this post we will know more about the functional components. 
-
-What is a component?
-A component is one of the core building blocks of React. Multiple ind... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
