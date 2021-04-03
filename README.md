@@ -23,6 +23,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/the-beginners-brief-guide-to-usability-testing" title="The beginner's brief  guide to Usability Testing"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617331094091/r-3n0w6eJ.jpeg" alt="The beginner's brief  guide to Usability Testing" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/the-beginners-brief-guide-to-usability-testing" title="The beginner's brief  guide to Usability Testing"><strong>The beginner's brief  guide to Usability Testing</strong></a>
+<br/> According to the industry expert Jacob Nielsen from Nielsen Norman Group, 85% of issue associated with the UX are often detected by performing an usability test of 5 users.
+I think that it is an amazing reason, why to conduct usability testing sessio... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/accessibility-checklist-for-ux-designers" title="Accessibility checklist for UX Designers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617242624434/jJPtjhk_b.png" alt="Accessibility checklist for UX Designers" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/accessibility-checklist-for-ux-designers" title="Accessibility checklist for UX Designers"><strong>Accessibility checklist for UX Designers</strong></a>
 <br/> Creating accessible style isn't that troublesome and expensive as you'll assume. Let's see the subsequent list of topics and enhancements, which may assist you with this method. 🔥🧑🏽‍💻
@@ -46,13 +51,6 @@ I'm certain we've all used the incorrect part for one purpose or another however
 <br/> In this latest post, we will discuss what are conditional statements in JavaScript. These statements are a bit confusing when coding, we'll learn this in a very simple way. 
 
 JavaScript supports conditional statements which are used to perform differ... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/what-are-class-components-or-es6-classes" title="What are class components or ES6 classes?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616900594127/9gJAlB2WU.png" alt="What are class components or ES6 classes?" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/what-are-class-components-or-es6-classes" title="What are class components or ES6 classes?"><strong>What are class components or ES6 classes?</strong></a>
-<br/> In the last, we discussed the Functional Components. In this post, we will know about the class component or ES6 Classes.
-
-Intro👋
-Class components are ES6 classes. Class components optionally receive props as input ad renders JSX. It can also mainta... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
