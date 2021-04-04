@@ -23,6 +23,12 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/an-ultimate-guide-to-logging-in-javascript" title="An ultimate guide to Logging in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617422440136/eTfqU8GRX.png" alt="An ultimate guide to Logging in JavaScript" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/an-ultimate-guide-to-logging-in-javascript" title="An ultimate guide to Logging in JavaScript"><strong>An ultimate guide to Logging in JavaScript</strong></a>
+<br/> In this post we'll also learn more about Loggin in JavaScript. This post is for intermediate JavaScript learners. 
+
+The console is part of the window object that gives you access to the browser's console. It lets you output strings, arrays and object... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/the-beginners-brief-guide-to-usability-testing" title="The beginner's brief  guide to Usability Testing"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617331094091/r-3n0w6eJ.jpeg" alt="The beginner's brief  guide to Usability Testing" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/the-beginners-brief-guide-to-usability-testing" title="The beginner's brief  guide to Usability Testing"><strong>The beginner's brief  guide to Usability Testing</strong></a>
 <br/> According to the industry expert Jacob Nielsen from Nielsen Norman Group, 85% of issue associated with the UX are often detected by performing an usability test of 5 users.
@@ -45,12 +51,6 @@ It creates standard and ve... </p> <br/> <br/>
 <a href="https://rahulism.hashnode.dev/semantic-html-button-vs-anchor" title="Semantic HTML button vs Anchor"><strong>Semantic HTML button vs Anchor</strong></a>
 <br/> Today's post is all regarding buttons vs anchors and after you ought to use that part.
 I'm certain we've all used the incorrect part for one purpose or another however it's very necessary to think about the HTML components you're victimised about and... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/javascript-conditional-statements-if-if-else-if-else-if-switch-case" title="JavaScript Conditional Statements: if, if else, if else if, switch case"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616987078951/pe3eihPkM.png" alt="JavaScript Conditional Statements: if, if else, if else if, switch case" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/javascript-conditional-statements-if-if-else-if-else-if-switch-case" title="JavaScript Conditional Statements: if, if else, if else if, switch case"><strong>JavaScript Conditional Statements: if, if else, if else if, switch case</strong></a>
-<br/> In this latest post, we will discuss what are conditional statements in JavaScript. These statements are a bit confusing when coding, we'll learn this in a very simple way. 
-
-JavaScript supports conditional statements which are used to perform differ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
