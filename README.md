@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Node.js and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://rahulism.co](https://portfolio.rahulism.tech/)
+- 👨‍💻 My portfolio is available at [https://portfolio.rahulism.tech](https://portfolio.rahulism.tech/)
 
 - 📝 I regularly write articles on [https://rahulism.hashnode.dev](https://rahulism.hashnode.dev)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gamerrahul1122@gmail.com**
 
-- ⚡ Fun fact **I love to work in silence**
+- ⚡ Fun fact **I love pizza**
 
 <hr>
 
