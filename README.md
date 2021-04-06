@@ -23,6 +23,12 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/write-efficient-function-in-javascript-what-is-memoization" title="Write efficient function in JavaScript: What is Memoization?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617590327742/OswlbLM5O.png" alt="Write efficient function in JavaScript: What is Memoization?" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/write-efficient-function-in-javascript-what-is-memoization" title="Write efficient function in JavaScript: What is Memoization?"><strong>Write efficient function in JavaScript: What is Memoization?</strong></a>
+<br/> In my recent tweet, I said to Use Memoization to make your JavaScript functions more efficient.
+Use Memoization to make your JavaScript functions more efficient— RAHUL (@rahxul) March 31, 2021 
+So in this post, I'm going to discuss with you What is M... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/the-brief-intro-to-recursive-functions" title="The brief intro to Recursive functions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617508767846/7TTqyuxZU.png" alt="The brief intro to Recursive functions" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/the-brief-intro-to-recursive-functions" title="The brief intro to Recursive functions"><strong>The brief intro to Recursive functions</strong></a>
 <br/> In this post we're going to learn more about Recursive function in JavaScript. This post is specifically for the JavaScript newbies. 
@@ -46,12 +52,6 @@ I think that it is an amazing reason, why to conduct usability testing sessio...
 
 Responsivness
 Firstly you should make sure that your design i... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/what-is-bem-methodology" title="What is BEM Methodology?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617158512035/RWit6uoL8.png" alt="What is BEM Methodology?" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/what-is-bem-methodology" title="What is BEM Methodology?"><strong>What is BEM Methodology?</strong></a>
-<br/> In this post we will discuss about the BEM in detail and why you should use it too. Let's go. 
-The simplicity of the naming convention, along side the benefit of implementation makes this a awfully fashionable alternative. 
-It creates standard and ve... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
