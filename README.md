@@ -23,6 +23,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/vs-code-extensions-to-increase-productivity-and-time-saver-hacks-for-developers" title="VS Code Extensions to increase productivity and time-saver hacks for developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617673888471/u4k98k6Hy.jpeg" alt="VS Code Extensions to increase productivity and time-saver hacks for developers" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/vs-code-extensions-to-increase-productivity-and-time-saver-hacks-for-developers" title="VS Code Extensions to increase productivity and time-saver hacks for developers"><strong>VS Code Extensions to increase productivity and time-saver hacks for developers</strong></a>
+<br/> How can developers be extra productive? You’re a developer or you manage a team of developers, higher productivity can get you extra things done through constant resources in a very small-time. 
+You are currently here because you're finding numerous ... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/write-efficient-function-in-javascript-what-is-memoization" title="Write efficient function in JavaScript: What is Memoization?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617590327742/OswlbLM5O.png" alt="Write efficient function in JavaScript: What is Memoization?" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/write-efficient-function-in-javascript-what-is-memoization" title="Write efficient function in JavaScript: What is Memoization?"><strong>Write efficient function in JavaScript: What is Memoization?</strong></a>
 <br/> In my recent tweet, I said to Use Memoization to make your JavaScript functions more efficient.
@@ -45,13 +50,6 @@ The console is part of the window object that gives you access to the browser's 
 <a href="https://rahulism.hashnode.dev/the-beginners-brief-guide-to-usability-testing" title="The beginner's brief  guide to Usability Testing"><strong>The beginner's brief  guide to Usability Testing</strong></a>
 <br/> According to the industry expert Jacob Nielsen from Nielsen Norman Group, 85% of issue associated with the UX are often detected by performing an usability test of 5 users.
 I think that it is an amazing reason, why to conduct usability testing sessio... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/accessibility-checklist-for-ux-designers" title="Accessibility checklist for UX Designers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617242624434/jJPtjhk_b.png" alt="Accessibility checklist for UX Designers" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/accessibility-checklist-for-ux-designers" title="Accessibility checklist for UX Designers"><strong>Accessibility checklist for UX Designers</strong></a>
-<br/> Creating accessible style isn't that troublesome and expensive as you'll assume. Let's see the subsequent list of topics and enhancements, which may assist you with this method. 🔥🧑🏽‍💻
-
-Responsivness
-Firstly you should make sure that your design i... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
