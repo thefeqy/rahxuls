@@ -23,6 +23,12 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/what-is-currying-in-javascript" title="What is Currying in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617762456012/f5TjSmK2g.png" alt="What is Currying in JavaScript?" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/what-is-currying-in-javascript" title="What is Currying in JavaScript?"><strong>What is Currying in JavaScript?</strong></a>
+<br/> Currying is a technique of evaluating function with multiple arguments, into sequence of function with single argument. 
+Currying is a transformation of function that translates a function from callable as f(a, b, c) into callable as f(a)(b)(c). 
+fun... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/vs-code-extensions-to-increase-productivity-and-time-saver-hacks-for-developers" title="VS Code Extensions to increase productivity and time-saver hacks for developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617673888471/u4k98k6Hy.jpeg" alt="VS Code Extensions to increase productivity and time-saver hacks for developers" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/vs-code-extensions-to-increase-productivity-and-time-saver-hacks-for-developers" title="VS Code Extensions to increase productivity and time-saver hacks for developers"><strong>VS Code Extensions to increase productivity and time-saver hacks for developers</strong></a>
 <br/> How can developers be extra productive? You’re a developer or you manage a team of developers, higher productivity can get you extra things done through constant resources in a very small-time. 
@@ -45,11 +51,6 @@ A JavaScript function is a block of code designed to perform a particular task. 
 <br/> In this post we'll also learn more about Loggin in JavaScript. This post is for intermediate JavaScript learners. 
 
 The console is part of the window object that gives you access to the browser's console. It lets you output strings, arrays and object... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/the-beginners-brief-guide-to-usability-testing" title="The beginner's brief  guide to Usability Testing"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617331094091/r-3n0w6eJ.jpeg" alt="The beginner's brief  guide to Usability Testing" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/the-beginners-brief-guide-to-usability-testing" title="The beginner's brief  guide to Usability Testing"><strong>The beginner's brief  guide to Usability Testing</strong></a>
-<br/> According to the industry expert Jacob Nielsen from Nielsen Norman Group, 85% of issue associated with the UX are often detected by performing an usability test of 5 users.
-I think that it is an amazing reason, why to conduct usability testing sessio... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
