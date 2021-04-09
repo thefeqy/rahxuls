@@ -23,6 +23,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/why-your-website-should-have-a-skip-link" title="Why your website should have a Skip Link?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617846307789/a1slD96zV.png" alt="Why your website should have a Skip Link?" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/why-your-website-should-have-a-skip-link" title="Why your website should have a Skip Link?"><strong>Why your website should have a Skip Link?</strong></a>
+<br/> It's critical that any web pages you create are accessible to all. Unfortunately, it's something that's often ignored and neglected.
+This quick and easy tutorial will show you how to add a skip link to your page to make it more accessible. It's usual... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-is-currying-in-javascript" title="What is Currying in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617762456012/f5TjSmK2g.png" alt="What is Currying in JavaScript?" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-is-currying-in-javascript" title="What is Currying in JavaScript?"><strong>What is Currying in JavaScript?</strong></a>
 <br/> Currying is a technique of evaluating function with multiple arguments, into sequence of function with single argument. 
@@ -45,12 +50,6 @@ So in this post, I'm going to discuss with you What is M... </p> <br/> <br/>
 <br/> In this post we're going to learn more about Recursive function in JavaScript. This post is specifically for the JavaScript newbies. 
 What is Function?
 A JavaScript function is a block of code designed to perform a particular task. A JavaScript funct... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/an-ultimate-guide-to-logging-in-javascript" title="An ultimate guide to Logging in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617422440136/eTfqU8GRX.png" alt="An ultimate guide to Logging in JavaScript" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/an-ultimate-guide-to-logging-in-javascript" title="An ultimate guide to Logging in JavaScript"><strong>An ultimate guide to Logging in JavaScript</strong></a>
-<br/> In this post we'll also learn more about Loggin in JavaScript. This post is for intermediate JavaScript learners. 
-
-The console is part of the window object that gives you access to the browser's console. It lets you output strings, arrays and object... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
