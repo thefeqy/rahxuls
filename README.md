@@ -23,6 +23,13 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/a-brief-guide-to-animations-in-css" title="A brief guide to Animations in CSS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618022640433/PvyAwihUw.png" alt="A brief guide to Animations in CSS" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/a-brief-guide-to-animations-in-css" title="A brief guide to Animations in CSS"><strong>A brief guide to Animations in CSS</strong></a>
+<br/> Don't be afraid of animation. They're easy. This small started guide will help you in creating 4 simple type of keyframe animations. 
+
+Keyframes
+You can use CSS keyframes to create some cool animation by transitioning between CSS properties. This qui... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/javascript-design-patterns-decorators" title="JavaScript design patterns: Decorators"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617935466572/R3fQ2wqMw.png" alt="JavaScript design patterns: Decorators" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/javascript-design-patterns-decorators" title="JavaScript design patterns: Decorators"><strong>JavaScript design patterns: Decorators</strong></a>
 <br/> I have explained about Object Creation pattern in JavaScript. Object creation pattern. So let's learn about the Decorator Pattern. 
@@ -44,12 +51,6 @@ fun... </p> <br/> <br/>
 <a href="https://rahulism.hashnode.dev/vs-code-extensions-to-increase-productivity-and-time-saver-hacks-for-developers" title="VS Code Extensions to increase productivity and time-saver hacks for developers"><strong>VS Code Extensions to increase productivity and time-saver hacks for developers</strong></a>
 <br/> How can developers be extra productive? You’re a developer or you manage a team of developers, higher productivity can get you extra things done through constant resources in a very small-time. 
 You are currently here because you're finding numerous ... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/write-efficient-function-in-javascript-what-is-memoization" title="Write efficient function in JavaScript: What is Memoization?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617590327742/OswlbLM5O.png" alt="Write efficient function in JavaScript: What is Memoization?" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/write-efficient-function-in-javascript-what-is-memoization" title="Write efficient function in JavaScript: What is Memoization?"><strong>Write efficient function in JavaScript: What is Memoization?</strong></a>
-<br/> In my recent tweet, I said to Use Memoization to make your JavaScript functions more efficient.
-Use Memoization to make your JavaScript functions more efficient— RAHUL (@rahxul) March 31, 2021 
-So in this post, I'm going to discuss with you What is M... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
