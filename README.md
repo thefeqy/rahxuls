@@ -23,6 +23,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/explain-me-npm-in-simple-terms" title="Explain me NPM in simple terms"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618106144507/ZO1ZNQJvU.png" alt="Explain me NPM in simple terms" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/explain-me-npm-in-simple-terms" title="Explain me NPM in simple terms"><strong>Explain me NPM in simple terms</strong></a>
+<br/> NPM stands for Node Package Manager and is composed of an online repository of open-source Node.js projects and a command-line utility used to interact with this repository. 
+The power of package manager is that they are specially structured to easil... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/a-brief-guide-to-animations-in-css" title="A brief guide to Animations in CSS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618022640433/PvyAwihUw.png" alt="A brief guide to Animations in CSS" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/a-brief-guide-to-animations-in-css" title="A brief guide to Animations in CSS"><strong>A brief guide to Animations in CSS</strong></a>
 <br/> Don't be afraid of animation. They're easy. This small started guide will help you in creating 4 simple type of keyframe animations. 
@@ -46,11 +51,6 @@ This quick and easy tutorial will show you how to add a skip link to your page t
 <br/> Currying is a technique of evaluating function with multiple arguments, into sequence of function with single argument. 
 Currying is a transformation of function that translates a function from callable as f(a, b, c) into callable as f(a)(b)(c). 
 fun... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/vs-code-extensions-to-increase-productivity-and-time-saver-hacks-for-developers" title="VS Code Extensions to increase productivity and time-saver hacks for developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617673888471/u4k98k6Hy.jpeg" alt="VS Code Extensions to increase productivity and time-saver hacks for developers" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/vs-code-extensions-to-increase-productivity-and-time-saver-hacks-for-developers" title="VS Code Extensions to increase productivity and time-saver hacks for developers"><strong>VS Code Extensions to increase productivity and time-saver hacks for developers</strong></a>
-<br/> How can developers be extra productive? You’re a developer or you manage a team of developers, higher productivity can get you extra things done through constant resources in a very small-time. 
-You are currently here because you're finding numerous ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
