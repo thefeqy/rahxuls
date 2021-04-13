@@ -23,6 +23,12 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/what-is-competitive-programming" title="What is competitive programming?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618194847481/Hk1gplC-i.png" alt="What is competitive programming?" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/what-is-competitive-programming" title="What is competitive programming?"><strong>What is competitive programming?</strong></a>
+<br/> Competitive Programming is a contest usually held over the internet involving participants trying to solve well-defined problems by writing computer programs according to provided specifications. Contestants are referred to as sport programmers. 
+
+A ... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/explain-me-npm-in-simple-terms" title="Explain me NPM in simple terms"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618106144507/ZO1ZNQJvU.png" alt="Explain me NPM in simple terms" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/explain-me-npm-in-simple-terms" title="Explain me NPM in simple terms"><strong>Explain me NPM in simple terms</strong></a>
 <br/> NPM stands for Node Package Manager and is composed of an online repository of open-source Node.js projects and a command-line utility used to interact with this repository. 
@@ -45,12 +51,6 @@ The decorator pattern is a structural design pattern that attaches additional re
 <a href="https://rahulism.hashnode.dev/why-your-website-should-have-a-skip-link" title="Why your website should have a Skip Link?"><strong>Why your website should have a Skip Link?</strong></a>
 <br/> It's critical that any web pages you create are accessible to all. Unfortunately, it's something that's often ignored and neglected.
 This quick and easy tutorial will show you how to add a skip link to your page to make it more accessible. It's usual... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/what-is-currying-in-javascript" title="What is Currying in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617762456012/f5TjSmK2g.png" alt="What is Currying in JavaScript?" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/what-is-currying-in-javascript" title="What is Currying in JavaScript?"><strong>What is Currying in JavaScript?</strong></a>
-<br/> Currying is a technique of evaluating function with multiple arguments, into sequence of function with single argument. 
-Currying is a transformation of function that translates a function from callable as f(a, b, c) into callable as f(a)(b)(c). 
-fun... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
