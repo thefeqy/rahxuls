@@ -23,6 +23,14 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/what-is-proxy-in-javascript" title="What is Proxy in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618282521874/N5jJnL6zp.png" alt="What is Proxy in JavaScript?" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/what-is-proxy-in-javascript" title="What is Proxy in JavaScript?"><strong>What is Proxy in JavaScript?</strong></a>
+<br/> An proxy object wraps another item and captures tasks like perusing/composing properties and some essential activities.
+const proxy = new Proxy(target, handler);
+Proxy is created with two parameters. 
+
+Target: Original object which you want to proxy.... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-is-competitive-programming" title="What is competitive programming?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618194847481/Hk1gplC-i.png" alt="What is competitive programming?" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-is-competitive-programming" title="What is competitive programming?"><strong>What is competitive programming?</strong></a>
 <br/> Competitive Programming is a contest usually held over the internet involving participants trying to solve well-defined problems by writing computer programs according to provided specifications. Contestants are referred to as sport programmers. 
@@ -46,11 +54,6 @@ You can use CSS keyframes to create some cool animation by transitioning between
 <br/> I have explained about Object Creation pattern in JavaScript. Object creation pattern. So let's learn about the Decorator Pattern. 
 What is a decorator pattern?
 The decorator pattern is a structural design pattern that attaches additional responsibil... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/why-your-website-should-have-a-skip-link" title="Why your website should have a Skip Link?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617846307789/a1slD96zV.png" alt="Why your website should have a Skip Link?" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/why-your-website-should-have-a-skip-link" title="Why your website should have a Skip Link?"><strong>Why your website should have a Skip Link?</strong></a>
-<br/> It's critical that any web pages you create are accessible to all. Unfortunately, it's something that's often ignored and neglected.
-This quick and easy tutorial will show you how to add a skip link to your page to make it more accessible. It's usual... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
