@@ -23,6 +23,14 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/what-is-redux-practical-guide-to-redux" title="What is Redux? Practical guide to Redux"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618370636815/jjFBpH1hF.png" alt="What is Redux? Practical guide to Redux" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/what-is-redux-practical-guide-to-redux" title="What is Redux? Practical guide to Redux"><strong>What is Redux? Practical guide to Redux</strong></a>
+<br/> This post is not for beginners. Here we'll discuss Redux, the JavaScript library used for managing React state. And also I will give you a practical guide to Redux. 
+Without further ado! Let's get into it. 
+
+Introduction
+"A predictable state containe... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-is-proxy-in-javascript" title="What is Proxy in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618282521874/N5jJnL6zp.png" alt="What is Proxy in JavaScript?" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-is-proxy-in-javascript" title="What is Proxy in JavaScript?"><strong>What is Proxy in JavaScript?</strong></a>
 <br/> An proxy object wraps another item and captures tasks like perusing/composing properties and some essential activities.
@@ -48,12 +56,6 @@ The power of package manager is that they are specially structured to easil... <
 
 Keyframes
 You can use CSS keyframes to create some cool animation by transitioning between CSS properties. This qui... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/javascript-design-patterns-decorators" title="JavaScript design patterns: Decorators"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617935466572/R3fQ2wqMw.png" alt="JavaScript design patterns: Decorators" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/javascript-design-patterns-decorators" title="JavaScript design patterns: Decorators"><strong>JavaScript design patterns: Decorators</strong></a>
-<br/> I have explained about Object Creation pattern in JavaScript. Object creation pattern. So let's learn about the Decorator Pattern. 
-What is a decorator pattern?
-The decorator pattern is a structural design pattern that attaches additional responsibil... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
