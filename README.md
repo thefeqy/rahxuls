@@ -23,6 +23,13 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/a-brief-guide-to-observers-in-javascript" title="A brief guide to observers in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618453610898/M7Pc8qKWl.png" alt="A brief guide to observers in JavaScript" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/a-brief-guide-to-observers-in-javascript" title="A brief guide to observers in JavaScript"><strong>A brief guide to observers in JavaScript</strong></a>
+<br/> In this post, I am going to cover Observers in JavaScript. So without wasting any more time, let's get into it. 
+
+What are Web APIS?
+Observers are part of JavaScript web APIs, and those observers are relatively new Web APIs (besides the mutationObser... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-is-redux-practical-guide-to-redux" title="What is Redux? Practical guide to Redux"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618370636815/jjFBpH1hF.png" alt="What is Redux? Practical guide to Redux" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-is-redux-practical-guide-to-redux" title="What is Redux? Practical guide to Redux"><strong>What is Redux? Practical guide to Redux</strong></a>
 <br/> This post is not for beginners. Here we'll discuss Redux, the JavaScript library used for managing React state. And also I will give you a practical guide to Redux. 
@@ -49,13 +56,6 @@ A ... </p> <br/> <br/>
 <a href="https://rahulism.hashnode.dev/explain-me-npm-in-simple-terms" title="Explain me NPM in simple terms"><strong>Explain me NPM in simple terms</strong></a>
 <br/> NPM stands for Node Package Manager and is composed of an online repository of open-source Node.js projects and a command-line utility used to interact with this repository. 
 The power of package manager is that they are specially structured to easil... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/a-brief-guide-to-animations-in-css" title="A brief guide to Animations in CSS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618022640433/PvyAwihUw.png" alt="A brief guide to Animations in CSS" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/a-brief-guide-to-animations-in-css" title="A brief guide to Animations in CSS"><strong>A brief guide to Animations in CSS</strong></a>
-<br/> Don't be afraid of animation. They're easy. This small started guide will help you in creating 4 simple type of keyframe animations. 
-
-Keyframes
-You can use CSS keyframes to create some cool animation by transitioning between CSS properties. This qui... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
