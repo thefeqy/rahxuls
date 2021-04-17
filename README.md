@@ -23,6 +23,10 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/sass-basics-to-advanced-give-superpower-to-your-css" title="SaSS basics to advanced: Give superpower to your CSS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618542757157/mZ3_7fWJs.png" alt="SaSS basics to advanced: Give superpower to your CSS" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/sass-basics-to-advanced-give-superpower-to-your-css" title="SaSS basics to advanced: Give superpower to your CSS"><strong>SaSS basics to advanced: Give superpower to your CSS</strong></a>
+<br/> SASS is CSS with superpowers. So, as front-end developer and learner I researched about LESS which was great but very soon I changed to SASS because of using pre/post processor you can write CSS more programmatically and can help you develop robust s... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/a-brief-guide-to-observers-in-javascript" title="A brief guide to observers in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618453610898/M7Pc8qKWl.png" alt="A brief guide to observers in JavaScript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/a-brief-guide-to-observers-in-javascript" title="A brief guide to observers in JavaScript"><strong>A brief guide to observers in JavaScript</strong></a>
 <br/> In this post, I am going to cover Observers in JavaScript. So without wasting any more time, let's get into it. 
@@ -51,11 +55,6 @@ Target: Original object which you want to proxy.... </p> <br/> <br/>
 <br/> Competitive Programming is a contest usually held over the internet involving participants trying to solve well-defined problems by writing computer programs according to provided specifications. Contestants are referred to as sport programmers. 
 
 A ... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/explain-me-npm-in-simple-terms" title="Explain me NPM in simple terms"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618106144507/ZO1ZNQJvU.png" alt="Explain me NPM in simple terms" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/explain-me-npm-in-simple-terms" title="Explain me NPM in simple terms"><strong>Explain me NPM in simple terms</strong></a>
-<br/> NPM stands for Node Package Manager and is composed of an online repository of open-source Node.js projects and a command-line utility used to interact with this repository. 
-The power of package manager is that they are specially structured to easil... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
