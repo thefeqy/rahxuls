@@ -23,6 +23,15 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/what-are-different-method-of-object-constructor" title="What are different method of object constructor?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618628277222/bSQUwuUyG.png" alt="What are different method of object constructor?" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/what-are-different-method-of-object-constructor" title="What are different method of object constructor?"><strong>What are different method of object constructor?</strong></a>
+<br/> This short post will discuss with you about what are different methods of object constructor. There are generally 4 methods of it we'll discuss about them. 
+
+Methods of Object Constructor
+
+Object.keys(obj) - Returns an array of keys
+Object.values(obj... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/sass-basics-to-advanced-give-superpower-to-your-css" title="SaSS basics to advanced: Give superpower to your CSS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618542757157/mZ3_7fWJs.png" alt="SaSS basics to advanced: Give superpower to your CSS" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/sass-basics-to-advanced-give-superpower-to-your-css" title="SaSS basics to advanced: Give superpower to your CSS"><strong>SaSS basics to advanced: Give superpower to your CSS</strong></a>
 <br/> SASS is CSS with superpowers. So, as front-end developer and learner I researched about LESS which was great but very soon I changed to SASS because of using pre/post processor you can write CSS more programmatically and can help you develop robust s... </p> <br/> <br/>
@@ -49,12 +58,6 @@ const proxy = new Proxy(target, handler);
 Proxy is created with two parameters. 
 
 Target: Original object which you want to proxy.... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/what-is-competitive-programming" title="What is competitive programming?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618194847481/Hk1gplC-i.png" alt="What is competitive programming?" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/what-is-competitive-programming" title="What is competitive programming?"><strong>What is competitive programming?</strong></a>
-<br/> Competitive Programming is a contest usually held over the internet involving participants trying to solve well-defined problems by writing computer programs according to provided specifications. Contestants are referred to as sport programmers. 
-
-A ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
