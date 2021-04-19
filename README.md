@@ -9,7 +9,7 @@
 
 - 👨‍💻 My portfolio is available at [https://portfolio.rahulism.tech](https://portfolio.rahulism.tech/)
 
-- 📝 I regularly write articles on [https://rahulism.hashnode.dev](https://rahulism.hashnode.dev)
+- 📝 I regularly write articles on [https://rahulism.tech](https://rahulism.tech)
 
 - 💬 Ask me about **JavaScript, React, Designing and Productivity**
 
