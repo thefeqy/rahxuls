@@ -23,6 +23,12 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/a-brief-guide-to-before-and-after-in-css-or-tutorial" title="A brief guide to ::before and ::after in CSS | Tutorial"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618726936385/wgOxB3mLh.png" alt="A brief guide to ::before and ::after in CSS | Tutorial" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/a-brief-guide-to-before-and-after-in-css-or-tutorial" title="A brief guide to ::before and ::after in CSS | Tutorial"><strong>A brief guide to ::before and ::after in CSS | Tutorial</strong></a>
+<br/> In this post, we'll discuss about the ::before and ::after** use cases. 
+Intro
+The ::before and ::after are CSS pseudo elements, and they allow you to add content to the page without having any additional HTML. While they are not technically part of ... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-are-different-method-of-object-constructor" title="What are different method of object constructor?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618628277222/bSQUwuUyG.png" alt="What are different method of object constructor?" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-are-different-method-of-object-constructor" title="What are different method of object constructor?"><strong>What are different method of object constructor?</strong></a>
 <br/> This short post will discuss with you about what are different methods of object constructor. There are generally 4 methods of it we'll discuss about them. 
@@ -50,14 +56,6 @@ Without further ado! Let's get into it.
 
 Introduction
 "A predictable state containe... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/what-is-proxy-in-javascript" title="What is Proxy in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618282521874/N5jJnL6zp.png" alt="What is Proxy in JavaScript?" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/what-is-proxy-in-javascript" title="What is Proxy in JavaScript?"><strong>What is Proxy in JavaScript?</strong></a>
-<br/> An proxy object wraps another item and captures tasks like perusing/composing properties and some essential activities.
-const proxy = new Proxy(target, handler);
-Proxy is created with two parameters. 
-
-Target: Original object which you want to proxy.... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
