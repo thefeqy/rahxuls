@@ -23,6 +23,12 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/a-short-post-on-required-parameters-in-javascript" title="A short post on Required parameters in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618804934280/mWZz9EZne.png" alt="A short post on Required parameters in JavaScript" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/a-short-post-on-required-parameters-in-javascript" title="A short post on Required parameters in JavaScript"><strong>A short post on Required parameters in JavaScript</strong></a>
+<br/> From MDN docs a parameter is a named variable passed into a function. Parameter variables are used to import arguments into functions.
+In this brief post, we'll see about using default parameter and parameter validation in JavaScript. 
+Parameter Vali... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/a-brief-guide-to-before-and-after-in-css-or-tutorial" title="A brief guide to ::before and ::after in CSS | Tutorial"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618726936385/wgOxB3mLh.png" alt="A brief guide to ::before and ::after in CSS | Tutorial" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/a-brief-guide-to-before-and-after-in-css-or-tutorial" title="A brief guide to ::before and ::after in CSS | Tutorial"><strong>A brief guide to ::before and ::after in CSS | Tutorial</strong></a>
 <br/> In this post, we'll discuss about the ::before and ::after** use cases. 
@@ -48,14 +54,6 @@ Object.values(obj... </p> <br/> <br/>
 
 What are Web APIS?
 Observers are part of JavaScript web APIs, and those observers are relatively new Web APIs (besides the mutationObser... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/what-is-redux-practical-guide-to-redux" title="What is Redux? Practical guide to Redux"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618370636815/jjFBpH1hF.png" alt="What is Redux? Practical guide to Redux" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/what-is-redux-practical-guide-to-redux" title="What is Redux? Practical guide to Redux"><strong>What is Redux? Practical guide to Redux</strong></a>
-<br/> This post is not for beginners. Here we'll discuss Redux, the JavaScript library used for managing React state. And also I will give you a practical guide to Redux. 
-Without further ado! Let's get into it. 
-
-Introduction
-"A predictable state containe... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
