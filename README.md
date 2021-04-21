@@ -23,6 +23,14 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/inheritance-vs-composition-on-javascript" title="Inheritance vs Composition on JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618883254887/g_8hPqDDq.png" alt="Inheritance vs Composition on JavaScript" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/inheritance-vs-composition-on-javascript" title="Inheritance vs Composition on JavaScript"><strong>Inheritance vs Composition on JavaScript</strong></a>
+<br/> Some days back I wrote about Composition vs Inheritance in React (Here). Got an amazing response on Twitter. So, in this post, we'll see about Composition vs Inheritance in JavaScript. 
+
+Intro
+What is Inheritance?
+In simple language, inheritance mean... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/a-short-post-on-required-parameters-in-javascript" title="A short post on Required parameters in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618804934280/mWZz9EZne.png" alt="A short post on Required parameters in JavaScript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/a-short-post-on-required-parameters-in-javascript" title="A short post on Required parameters in JavaScript"><strong>A short post on Required parameters in JavaScript</strong></a>
 <br/> From MDN docs a parameter is a named variable passed into a function. Parameter variables are used to import arguments into functions.
@@ -47,13 +55,6 @@ Object.values(obj... </p> <br/> <br/>
 <a href="https://rahulism.hashnode.dev/sass-basics-to-advanced-give-superpower-to-your-css" title="SaSS basics to advanced: Give superpower to your CSS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618542757157/mZ3_7fWJs.png" alt="SaSS basics to advanced: Give superpower to your CSS" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/sass-basics-to-advanced-give-superpower-to-your-css" title="SaSS basics to advanced: Give superpower to your CSS"><strong>SaSS basics to advanced: Give superpower to your CSS</strong></a>
 <br/> SASS is CSS with superpowers. So, as front-end developer and learner I researched about LESS which was great but very soon I changed to SASS because of using pre/post processor you can write CSS more programmatically and can help you develop robust s... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/a-brief-guide-to-observers-in-javascript" title="A brief guide to observers in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618453610898/M7Pc8qKWl.png" alt="A brief guide to observers in JavaScript" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/a-brief-guide-to-observers-in-javascript" title="A brief guide to observers in JavaScript"><strong>A brief guide to observers in JavaScript</strong></a>
-<br/> In this post, I am going to cover Observers in JavaScript. So without wasting any more time, let's get into it. 
-
-What are Web APIS?
-Observers are part of JavaScript web APIs, and those observers are relatively new Web APIs (besides the mutationObser... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
