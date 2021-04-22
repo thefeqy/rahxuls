@@ -23,6 +23,23 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/200-ultimate-resources-for-front-end-development-in-2021" title="200+ Ultimate Resources for Front-End Development in 2021"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618984122560/ihNB3KK_5.png" alt="200+ Ultimate Resources for Front-End Development in 2021" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/200-ultimate-resources-for-front-end-development-in-2021" title="200+ Ultimate Resources for Front-End Development in 2021"><strong>200+ Ultimate Resources for Front-End Development in 2021</strong></a>
+<br/> You only need this post to become a Front-end Developer because this post has nearly unlimited amount of every type of resources covering everything you will need. 
+
+
+Blog your Journey
+
+Hashnode  - Hashnode is the easiest way to start a developer blo... </p> <br/> <br/>
+<p align="left">
+<a href="https://rahulism.hashnode.dev/start-using-object-literals" title="Start using Object Literals"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618974201375/D5K9sbmp4.png" alt="Start using Object Literals" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/start-using-object-literals" title="Start using Object Literals"><strong>Start using Object Literals</strong></a>
+<br/> Let's start this post with a brief discussion about what are switch case and object literals and then we'll move to why to use Object literals instead of Switch-case statements. 
+
+Intro
+Switch-Case
+(Src => FreeCodeCamp.com) A switch statement tests a... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/inheritance-vs-composition-on-javascript" title="Inheritance vs Composition on JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618883254887/g_8hPqDDq.png" alt="Inheritance vs Composition on JavaScript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/inheritance-vs-composition-on-javascript" title="Inheritance vs Composition on JavaScript"><strong>Inheritance vs Composition on JavaScript</strong></a>
 <br/> Some days back I wrote about Composition vs Inheritance in React (Here). Got an amazing response on Twitter. So, in this post, we'll see about Composition vs Inheritance in JavaScript. 
@@ -42,19 +59,6 @@ Parameter Vali... </p> <br/> <br/>
 <br/> In this post, we'll discuss about the ::before and ::after** use cases. 
 Intro
 The ::before and ::after are CSS pseudo elements, and they allow you to add content to the page without having any additional HTML. While they are not technically part of ... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/what-are-different-method-of-object-constructor" title="What are different method of object constructor?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618628277222/bSQUwuUyG.png" alt="What are different method of object constructor?" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/what-are-different-method-of-object-constructor" title="What are different method of object constructor?"><strong>What are different method of object constructor?</strong></a>
-<br/> This short post will discuss with you about what are different methods of object constructor. There are generally 4 methods of it we'll discuss about them. 
-
-Methods of Object Constructor
-
-Object.keys(obj) - Returns an array of keys
-Object.values(obj... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/sass-basics-to-advanced-give-superpower-to-your-css" title="SaSS basics to advanced: Give superpower to your CSS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618542757157/mZ3_7fWJs.png" alt="SaSS basics to advanced: Give superpower to your CSS" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/sass-basics-to-advanced-give-superpower-to-your-css" title="SaSS basics to advanced: Give superpower to your CSS"><strong>SaSS basics to advanced: Give superpower to your CSS</strong></a>
-<br/> SASS is CSS with superpowers. So, as front-end developer and learner I researched about LESS which was great but very soon I changed to SASS because of using pre/post processor you can write CSS more programmatically and can help you develop robust s... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
