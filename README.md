@@ -23,6 +23,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/component-methods-vs-hooks-in-react" title="Component methods vs Hooks in React"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619059495696/qoqZkbNhz.png" alt="Component methods vs Hooks in React" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/component-methods-vs-hooks-in-react" title="Component methods vs Hooks in React"><strong>Component methods vs Hooks in React</strong></a>
+<br/> Hooks are addition in React.js, available from version 16.8. They let you use state and other React features without writing a class. 
+Let's see how React components can be refractored to use React Hook useEffect() instead of the main lifecycle metho... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/200-ultimate-resources-for-front-end-development-in-2021" title="200+ Ultimate Resources for Front-End Development in 2021"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618984122560/ihNB3KK_5.png" alt="200+ Ultimate Resources for Front-End Development in 2021" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/200-ultimate-resources-for-front-end-development-in-2021" title="200+ Ultimate Resources for Front-End Development in 2021"><strong>200+ Ultimate Resources for Front-End Development in 2021</strong></a>
 <br/> You only need this post to become a Front-end Developer because this post has nearly unlimited amount of every type of resources covering everything you will need. 
@@ -53,12 +58,6 @@ In simple language, inheritance mean... </p> <br/> <br/>
 <br/> From MDN docs a parameter is a named variable passed into a function. Parameter variables are used to import arguments into functions.
 In this brief post, we'll see about using default parameter and parameter validation in JavaScript. 
 Parameter Vali... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/a-brief-guide-to-before-and-after-in-css-or-tutorial" title="A brief guide to ::before and ::after in CSS | Tutorial"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618726936385/wgOxB3mLh.png" alt="A brief guide to ::before and ::after in CSS | Tutorial" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/a-brief-guide-to-before-and-after-in-css-or-tutorial" title="A brief guide to ::before and ::after in CSS | Tutorial"><strong>A brief guide to ::before and ::after in CSS | Tutorial</strong></a>
-<br/> In this post, we'll discuss about the ::before and ::after** use cases. 
-Intro
-The ::before and ::after are CSS pseudo elements, and they allow you to add content to the page without having any additional HTML. While they are not technically part of ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
