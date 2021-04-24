@@ -23,6 +23,13 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/15-beginner-only-html-and-css-mistakes" title="15 beginner only HTML and CSS mistakes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619144117354/PNbI12kgj.png" alt="15 beginner only HTML and CSS mistakes" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/15-beginner-only-html-and-css-mistakes" title="15 beginner only HTML and CSS mistakes"><strong>15 beginner only HTML and CSS mistakes</strong></a>
+<br/> I have rounded up some of the HTML and CSS Mistakes I've made and you don't have to. These are some beginner mistakes, don't judge me😂. 
+
+HTML MISTAKES
+No matter what stack or framework you use, it all compiled to HTML in your browser. Therefore, it... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/component-methods-vs-hooks-in-react" title="Component methods vs Hooks in React"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619059495696/qoqZkbNhz.png" alt="Component methods vs Hooks in React" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/component-methods-vs-hooks-in-react" title="Component methods vs Hooks in React"><strong>Component methods vs Hooks in React</strong></a>
 <br/> Hooks are addition in React.js, available from version 16.8. They let you use state and other React features without writing a class. 
@@ -52,12 +59,6 @@ Switch-Case
 Intro
 What is Inheritance?
 In simple language, inheritance mean... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/a-short-post-on-required-parameters-in-javascript" title="A short post on Required parameters in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618804934280/mWZz9EZne.png" alt="A short post on Required parameters in JavaScript" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/a-short-post-on-required-parameters-in-javascript" title="A short post on Required parameters in JavaScript"><strong>A short post on Required parameters in JavaScript</strong></a>
-<br/> From MDN docs a parameter is a named variable passed into a function. Parameter variables are used to import arguments into functions.
-In this brief post, we'll see about using default parameter and parameter validation in JavaScript. 
-Parameter Vali... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
