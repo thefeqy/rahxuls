@@ -23,6 +23,15 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/a-brief-guide-to-super-keyword-in-javascript" title="A brief guide to Super keyword in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619233845867/kfnNyqBLW.png" alt="A brief guide to Super keyword in JavaScript" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/a-brief-guide-to-super-keyword-in-javascript" title="A brief guide to Super keyword in JavaScript"><strong>A brief guide to Super keyword in JavaScript</strong></a>
+<br/> The super keyword is used to access or call functions of the object's parent. super.prop can be used to access parent class properties. 
+Syntax: 
+// way to use
+super(); // calls the parent constructor
+
+super.functionOnParent(); // calls parent functi... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/15-beginner-only-html-and-css-mistakes" title="15 beginner only HTML and CSS mistakes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619144117354/PNbI12kgj.png" alt="15 beginner only HTML and CSS mistakes" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/15-beginner-only-html-and-css-mistakes" title="15 beginner only HTML and CSS mistakes"><strong>15 beginner only HTML and CSS mistakes</strong></a>
 <br/> I have rounded up some of the HTML and CSS Mistakes I've made and you don't have to. These are some beginner mistakes, don't judge me😂. 
@@ -51,14 +60,6 @@ Hashnode  - Hashnode is the easiest way to start a developer blo... </p> <br/> <
 Intro
 Switch-Case
 (Src => FreeCodeCamp.com) A switch statement tests a... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/inheritance-vs-composition-on-javascript" title="Inheritance vs Composition on JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618883254887/g_8hPqDDq.png" alt="Inheritance vs Composition on JavaScript" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/inheritance-vs-composition-on-javascript" title="Inheritance vs Composition on JavaScript"><strong>Inheritance vs Composition on JavaScript</strong></a>
-<br/> Some days back I wrote about Composition vs Inheritance in React (Here). Got an amazing response on Twitter. So, in this post, we'll see about Composition vs Inheritance in JavaScript. 
-
-Intro
-What is Inheritance?
-In simple language, inheritance mean... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
