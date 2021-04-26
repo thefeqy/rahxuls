@@ -23,6 +23,14 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/different-types-of-error-in-javascript" title="Different types of Error in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619317775998/y1Zdm5hIJ.png" alt="Different types of Error in JavaScript" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/different-types-of-error-in-javascript" title="Different types of Error in JavaScript"><strong>Different types of Error in JavaScript</strong></a>
+<br/> In this post we're going to read more about errors thrown in JavaScript. 
+There are different types of errors thrown from JavaScript, So we need to know few things to understand about the error. 
+
+What type of error it is?
+Error description or cause ... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/a-brief-guide-to-super-keyword-in-javascript" title="A brief guide to Super keyword in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619233845867/kfnNyqBLW.png" alt="A brief guide to Super keyword in JavaScript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/a-brief-guide-to-super-keyword-in-javascript" title="A brief guide to Super keyword in JavaScript"><strong>A brief guide to Super keyword in JavaScript</strong></a>
 <br/> The super keyword is used to access or call functions of the object's parent. super.prop can be used to access parent class properties. 
@@ -52,14 +60,6 @@ Let's see how React components can be refractored to use React Hook useEffect() 
 Blog your Journey
 
 Hashnode  - Hashnode is the easiest way to start a developer blo... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/start-using-object-literals" title="Start using Object Literals"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618974201375/D5K9sbmp4.png" alt="Start using Object Literals" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/start-using-object-literals" title="Start using Object Literals"><strong>Start using Object Literals</strong></a>
-<br/> Let's start this post with a brief discussion about what are switch case and object literals and then we'll move to why to use Object literals instead of Switch-case statements. 
-
-Intro
-Switch-Case
-(Src => FreeCodeCamp.com) A switch statement tests a... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
