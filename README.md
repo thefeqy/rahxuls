@@ -23,6 +23,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/what-is-promisification-in-javascript-a-brief-guide" title="What is Promisification in JavaScript? A brief guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619407392194/jNNlgRb4v.png" alt="What is Promisification in JavaScript? A brief guide" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/what-is-promisification-in-javascript-a-brief-guide" title="What is Promisification in JavaScript? A brief guide"><strong>What is Promisification in JavaScript? A brief guide</strong></a>
+<br/> Promisification is a long keyword for a simple transformation. It's the conversion of a function that accepts a callback to a function that returns a promise. 
+Such transformation are often required in real-life, as many function and libraries are ca... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/different-types-of-error-in-javascript" title="Different types of Error in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619317775998/y1Zdm5hIJ.png" alt="Different types of Error in JavaScript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/different-types-of-error-in-javascript" title="Different types of Error in JavaScript"><strong>Different types of Error in JavaScript</strong></a>
 <br/> In this post we're going to read more about errors thrown in JavaScript. 
@@ -51,15 +56,6 @@ No matter what stack or framework you use, it all compiled to HTML in your brows
 <a href="https://rahulism.hashnode.dev/component-methods-vs-hooks-in-react" title="Component methods vs Hooks in React"><strong>Component methods vs Hooks in React</strong></a>
 <br/> Hooks are addition in React.js, available from version 16.8. They let you use state and other React features without writing a class. 
 Let's see how React components can be refractored to use React Hook useEffect() instead of the main lifecycle metho... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/200-ultimate-resources-for-front-end-development-in-2021" title="200+ Ultimate Resources for Front-End Development in 2021"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618984122560/ihNB3KK_5.png" alt="200+ Ultimate Resources for Front-End Development in 2021" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/200-ultimate-resources-for-front-end-development-in-2021" title="200+ Ultimate Resources for Front-End Development in 2021"><strong>200+ Ultimate Resources for Front-End Development in 2021</strong></a>
-<br/> You only need this post to become a Front-end Developer because this post has nearly unlimited amount of every type of resources covering everything you will need. 
-
-
-Blog your Journey
-
-Hashnode  - Hashnode is the easiest way to start a developer blo... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
