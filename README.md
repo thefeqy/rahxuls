@@ -23,6 +23,16 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/types-of-errors-in-javascript" title="Types of Errors in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619489823311/Yi-9h4pNg.png" alt="Types of Errors in JavaScript" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/types-of-errors-in-javascript" title="Types of Errors in JavaScript"><strong>Types of Errors in JavaScript</strong></a>
+<br/> There are different types of errors thrown from JavaScript, So we need to know few things to understand about the error. 
+
+What type of error it is?
+Error description or cause or error
+Location of error and its stack trace
+
+In this brief post, we'll ... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-is-promisification-in-javascript-a-brief-guide" title="What is Promisification in JavaScript? A brief guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619407392194/jNNlgRb4v.png" alt="What is Promisification in JavaScript? A brief guide" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-is-promisification-in-javascript-a-brief-guide" title="What is Promisification in JavaScript? A brief guide"><strong>What is Promisification in JavaScript? A brief guide</strong></a>
 <br/> Promisification is a long keyword for a simple transformation. It's the conversion of a function that accepts a callback to a function that returns a promise. 
@@ -51,11 +61,6 @@ super.functionOnParent(); // calls parent functi... </p> <br/> <br/>
 
 HTML MISTAKES
 No matter what stack or framework you use, it all compiled to HTML in your browser. Therefore, it... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/component-methods-vs-hooks-in-react" title="Component methods vs Hooks in React"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619059495696/qoqZkbNhz.png" alt="Component methods vs Hooks in React" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/component-methods-vs-hooks-in-react" title="Component methods vs Hooks in React"><strong>Component methods vs Hooks in React</strong></a>
-<br/> Hooks are addition in React.js, available from version 16.8. They let you use state and other React features without writing a class. 
-Let's see how React components can be refractored to use React Hook useEffect() instead of the main lifecycle metho... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
