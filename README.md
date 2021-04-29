@@ -23,6 +23,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/a-short-guide-to-blocking-code-in-javascript" title="A short guide to Blocking Code in Javascript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619575900594/HpOgInAb4.png" alt="A short guide to Blocking Code in Javascript" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/a-short-guide-to-blocking-code-in-javascript" title="A short guide to Blocking Code in Javascript"><strong>A short guide to Blocking Code in Javascript</strong></a>
+<br/> When an app runs in a browser/server and it executes and an intensive chunk of code without returning control, the APP can appear to be frozen. 
+This is called blocking. The app is blocked from continuing to handle user input and perform other tasks ... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/types-of-errors-in-javascript" title="Types of Errors in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619489823311/Yi-9h4pNg.png" alt="Types of Errors in JavaScript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/types-of-errors-in-javascript" title="Types of Errors in JavaScript"><strong>Types of Errors in JavaScript</strong></a>
 <br/> There are different types of errors thrown from JavaScript, So we need to know few things to understand about the error. 
@@ -54,13 +59,6 @@ Syntax:
 super(); // calls the parent constructor
 
 super.functionOnParent(); // calls parent functi... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/15-beginner-only-html-and-css-mistakes" title="15 beginner only HTML and CSS mistakes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619144117354/PNbI12kgj.png" alt="15 beginner only HTML and CSS mistakes" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/15-beginner-only-html-and-css-mistakes" title="15 beginner only HTML and CSS mistakes"><strong>15 beginner only HTML and CSS mistakes</strong></a>
-<br/> I have rounded up some of the HTML and CSS Mistakes I've made and you don't have to. These are some beginner mistakes, don't judge me😂. 
-
-HTML MISTAKES
-No matter what stack or framework you use, it all compiled to HTML in your browser. Therefore, it... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
