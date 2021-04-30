@@ -23,6 +23,12 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/a-brief-about-importmeta-in-javascript" title="A brief about import.meta in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619665080996/DpEo7DZP4.png" alt="A brief about import.meta in JavaScript" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/a-brief-about-importmeta-in-javascript" title="A brief about import.meta in JavaScript"><strong>A brief about import.meta in JavaScript</strong></a>
+<br/> The import.meta object is a meta-property exposing context-specific meta data to a JavaScript Module. It contains information about the module, like the module's URL. 
+Syntax: import.meta
+The import.meta object consists of the keyword import, a dot, ... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/a-short-guide-to-blocking-code-in-javascript" title="A short guide to Blocking Code in Javascript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619575900594/HpOgInAb4.png" alt="A short guide to Blocking Code in Javascript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/a-short-guide-to-blocking-code-in-javascript" title="A short guide to Blocking Code in Javascript"><strong>A short guide to Blocking Code in Javascript</strong></a>
 <br/> When an app runs in a browser/server and it executes and an intensive chunk of code without returning control, the APP can appear to be frozen. 
@@ -50,15 +56,6 @@ There are different types of errors thrown from JavaScript, So we need to know f
 
 What type of error it is?
 Error description or cause ... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/a-brief-guide-to-super-keyword-in-javascript" title="A brief guide to Super keyword in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619233845867/kfnNyqBLW.png" alt="A brief guide to Super keyword in JavaScript" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/a-brief-guide-to-super-keyword-in-javascript" title="A brief guide to Super keyword in JavaScript"><strong>A brief guide to Super keyword in JavaScript</strong></a>
-<br/> The super keyword is used to access or call functions of the object's parent. super.prop can be used to access parent class properties. 
-Syntax: 
-// way to use
-super(); // calls the parent constructor
-
-super.functionOnParent(); // calls parent functi... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
