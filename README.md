@@ -23,6 +23,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/a-new-css-where-and-is-pseudo-classes" title="A new CSS :where() and :is pseudo classes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619746146307/H9NhWNNua.png" alt="A new CSS :where() and :is pseudo classes" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/a-new-css-where-and-is-pseudo-classes" title="A new CSS :where() and :is pseudo classes"><strong>A new CSS :where() and :is pseudo classes</strong></a>
+<br/> A new CSS with :where() and :is() pseudo-classes. I better know some of you don't know about these Selector/Pseudo-classes. They were recently introduced to most browsers. But they just might be your new favourite thing in Vanilla CSS. 
+Let's see abo... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/a-brief-about-importmeta-in-javascript" title="A brief about import.meta in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619665080996/DpEo7DZP4.png" alt="A brief about import.meta in JavaScript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/a-brief-about-importmeta-in-javascript" title="A brief about import.meta in JavaScript"><strong>A brief about import.meta in JavaScript</strong></a>
 <br/> The import.meta object is a meta-property exposing context-specific meta data to a JavaScript Module. It contains information about the module, like the module's URL. 
@@ -48,14 +53,6 @@ In this brief post, we'll ... </p> <br/> <br/>
 <a href="https://rahulism.hashnode.dev/what-is-promisification-in-javascript-a-brief-guide" title="What is Promisification in JavaScript? A brief guide"><strong>What is Promisification in JavaScript? A brief guide</strong></a>
 <br/> Promisification is a long keyword for a simple transformation. It's the conversion of a function that accepts a callback to a function that returns a promise. 
 Such transformation are often required in real-life, as many function and libraries are ca... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/different-types-of-error-in-javascript" title="Different types of Error in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619317775998/y1Zdm5hIJ.png" alt="Different types of Error in JavaScript" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/different-types-of-error-in-javascript" title="Different types of Error in JavaScript"><strong>Different types of Error in JavaScript</strong></a>
-<br/> In this post we're going to read more about errors thrown in JavaScript. 
-There are different types of errors thrown from JavaScript, So we need to know few things to understand about the error. 
-
-What type of error it is?
-Error description or cause ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
