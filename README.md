@@ -23,6 +23,10 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/what-are-classes-in-javascript-using-classes-in-javascript" title="What are Classes in JavaScript? Using Classes in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619841177241/jvvuuapja.png" alt="What are Classes in JavaScript? Using Classes in JavaScript" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/what-are-classes-in-javascript-using-classes-in-javascript" title="What are Classes in JavaScript? Using Classes in JavaScript"><strong>What are Classes in JavaScript? Using Classes in JavaScript</strong></a>
+<br/> Classes were introduced in JavaScript ECMA2015. Unlike the classes in Object-Oriented Mode, JavaScript classes are just special type of functions. But instead of using the "function" keyword we use the "class". It was introduced in JavaScript to make... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/a-new-css-where-and-is-pseudo-classes" title="A new CSS :where() and :is pseudo classes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619746146307/H9NhWNNua.png" alt="A new CSS :where() and :is pseudo classes" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/a-new-css-where-and-is-pseudo-classes" title="A new CSS :where() and :is pseudo classes"><strong>A new CSS :where() and :is pseudo classes</strong></a>
 <br/> A new CSS with :where() and :is() pseudo-classes. I better know some of you don't know about these Selector/Pseudo-classes. They were recently introduced to most browsers. But they just might be your new favourite thing in Vanilla CSS. 
@@ -48,11 +52,6 @@ Error description or cause or error
 Location of error and its stack trace
 
 In this brief post, we'll ... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/what-is-promisification-in-javascript-a-brief-guide" title="What is Promisification in JavaScript? A brief guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619407392194/jNNlgRb4v.png" alt="What is Promisification in JavaScript? A brief guide" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/what-is-promisification-in-javascript-a-brief-guide" title="What is Promisification in JavaScript? A brief guide"><strong>What is Promisification in JavaScript? A brief guide</strong></a>
-<br/> Promisification is a long keyword for a simple transformation. It's the conversion of a function that accepts a callback to a function that returns a promise. 
-Such transformation are often required in real-life, as many function and libraries are ca... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
