@@ -23,6 +23,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/getting-started-with-react-router" title="Getting started with React Router"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619925192159/AzXYAWKTw.png" alt="Getting started with React Router" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/getting-started-with-react-router" title="Getting started with React Router"><strong>Getting started with React Router</strong></a>
+<br/> React Router is the standard routing library for React. It has a simple API with all the powerful features like lazy code loading, dynamic route matching and location transition handling built-in. 
+It allows us to create a multi-page feel in a single... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-are-classes-in-javascript-using-classes-in-javascript" title="What are Classes in JavaScript? Using Classes in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619841177241/jvvuuapja.png" alt="What are Classes in JavaScript? Using Classes in JavaScript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-are-classes-in-javascript-using-classes-in-javascript" title="What are Classes in JavaScript? Using Classes in JavaScript"><strong>What are Classes in JavaScript? Using Classes in JavaScript</strong></a>
 <br/> Classes were introduced in JavaScript ECMA2015. Unlike the classes in Object-Oriented Mode, JavaScript classes are just special type of functions. But instead of using the "function" keyword we use the "class". It was introduced in JavaScript to make... </p> <br/> <br/>
@@ -42,16 +47,6 @@ The import.meta object consists of the keyword import, a dot, ... </p> <br/> <br
 <a href="https://rahulism.hashnode.dev/a-short-guide-to-blocking-code-in-javascript" title="A short guide to Blocking Code in Javascript"><strong>A short guide to Blocking Code in Javascript</strong></a>
 <br/> When an app runs in a browser/server and it executes and an intensive chunk of code without returning control, the APP can appear to be frozen. 
 This is called blocking. The app is blocked from continuing to handle user input and perform other tasks ... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/types-of-errors-in-javascript" title="Types of Errors in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619489823311/Yi-9h4pNg.png" alt="Types of Errors in JavaScript" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/types-of-errors-in-javascript" title="Types of Errors in JavaScript"><strong>Types of Errors in JavaScript</strong></a>
-<br/> There are different types of errors thrown from JavaScript, So we need to know few things to understand about the error. 
-
-What type of error it is?
-Error description or cause or error
-Location of error and its stack trace
-
-In this brief post, we'll ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
