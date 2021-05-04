@@ -23,6 +23,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/conditional-logic-javascript-for-beginners" title="Conditional logic: JavaScript for Beginners"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620008652351/YjKRlP9v4.png" alt="Conditional logic: JavaScript for Beginners" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/conditional-logic-javascript-for-beginners" title="Conditional logic: JavaScript for Beginners"><strong>Conditional logic: JavaScript for Beginners</strong></a>
+<br/> On the off chance that statements are normally utilized in JavaScript for conditional logic and can be pretty much as basic or intricate as required.
+In any coding language, you will often need to perform different actions based on certain condition.... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/getting-started-with-react-router" title="Getting started with React Router"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619925192159/AzXYAWKTw.png" alt="Getting started with React Router" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/getting-started-with-react-router" title="Getting started with React Router"><strong>Getting started with React Router</strong></a>
 <br/> React Router is the standard routing library for React. It has a simple API with all the powerful features like lazy code loading, dynamic route matching and location transition handling built-in. 
@@ -42,11 +47,6 @@ Let's see abo... </p> <br/> <br/>
 <br/> The import.meta object is a meta-property exposing context-specific meta data to a JavaScript Module. It contains information about the module, like the module's URL. 
 Syntax: import.meta
 The import.meta object consists of the keyword import, a dot, ... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/a-short-guide-to-blocking-code-in-javascript" title="A short guide to Blocking Code in Javascript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619575900594/HpOgInAb4.png" alt="A short guide to Blocking Code in Javascript" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/a-short-guide-to-blocking-code-in-javascript" title="A short guide to Blocking Code in Javascript"><strong>A short guide to Blocking Code in Javascript</strong></a>
-<br/> When an app runs in a browser/server and it executes and an intensive chunk of code without returning control, the APP can appear to be frozen. 
-This is called blocking. The app is blocked from continuing to handle user input and perform other tasks ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
