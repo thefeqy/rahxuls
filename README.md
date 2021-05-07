@@ -23,6 +23,13 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/what-are-functions-in-javascript-beginners" title="What are functions in JavaScript: Beginners"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620268671818/44OnITo3p.png" alt="What are functions in JavaScript: Beginners" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/what-are-functions-in-javascript-beginners" title="What are functions in JavaScript: Beginners"><strong>What are functions in JavaScript: Beginners</strong></a>
+<br/> In this section, we cover functions, what they are utilized for and how to keep in touch with them. A function is a way to encapsulate a portion of your code so a specific action can e reused and called on to run at a specific time. 
+
+Declaration
+An ... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/a-complete-guide-to-object-destructuring-javascript" title="A complete guide to Object Destructuring: JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620187043692/jJacTNEYe.png" alt="A complete guide to Object Destructuring: JavaScript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/a-complete-guide-to-object-destructuring-javascript" title="A complete guide to Object Destructuring: JavaScript"><strong>A complete guide to Object Destructuring: JavaScript</strong></a>
 <br/> Destructuring is a method of separating an intricate construction into easier parts.  With the destructuring punctuation, we can separate more modest parts from arrays and objects.  The destructuring syntax can be utilized for variable declaration or... </p> <br/> <br/>
@@ -40,10 +47,6 @@ In any coding language, you will often need to perform different actions based o
 <a href="https://rahulism.hashnode.dev/getting-started-with-react-router" title="Getting started with React Router"><strong>Getting started with React Router</strong></a>
 <br/> React Router is the standard routing library for React. It has a simple API with all the powerful features like lazy code loading, dynamic route matching and location transition handling built-in. 
 It allows us to create a multi-page feel in a single... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/what-are-classes-in-javascript-using-classes-in-javascript" title="What are Classes in JavaScript? Using Classes in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619841177241/jvvuuapja.png" alt="What are Classes in JavaScript? Using Classes in JavaScript" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/what-are-classes-in-javascript-using-classes-in-javascript" title="What are Classes in JavaScript? Using Classes in JavaScript"><strong>What are Classes in JavaScript? Using Classes in JavaScript</strong></a>
-<br/> Classes were introduced in JavaScript ECMA2015. Unlike the classes in Object-Oriented Mode, JavaScript classes are just special type of functions. But instead of using the "function" keyword we use the "class". It was introduced in JavaScript to make... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
