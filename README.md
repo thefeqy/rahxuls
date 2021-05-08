@@ -23,6 +23,14 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/5-css-best-practices-every-front-end-developer-should-know" title="5 CSS Best Practices every front-end Developer should know"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620357714947/bw_BWbJ_R.png" alt="5 CSS Best Practices every front-end Developer should know" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/5-css-best-practices-every-front-end-developer-should-know" title="5 CSS Best Practices every front-end Developer should know"><strong>5 CSS Best Practices every front-end Developer should know</strong></a>
+<br/> Writing CSS has always been tough for me😭. But here are some best practices every front-end developer should know. 
+Without further talks, let's see them. 
+
+Using the vendor prefixes
+Vendor prefixed is a way for the browser to add support for new CS... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-are-functions-in-javascript-beginners" title="What are functions in JavaScript: Beginners"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620268671818/44OnITo3p.png" alt="What are functions in JavaScript: Beginners" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-are-functions-in-javascript-beginners" title="What are functions in JavaScript: Beginners"><strong>What are functions in JavaScript: Beginners</strong></a>
 <br/> In this section, we cover functions, what they are utilized for and how to keep in touch with them. A function is a way to encapsulate a portion of your code so a specific action can e reused and called on to run at a specific time. 
@@ -42,11 +50,6 @@ An ... </p> <br/> <br/>
 <a href="https://rahulism.hashnode.dev/conditional-logic-javascript-for-beginners" title="Conditional logic: JavaScript for Beginners"><strong>Conditional logic: JavaScript for Beginners</strong></a>
 <br/> On the off chance that statements are normally utilized in JavaScript for conditional logic and can be pretty much as basic or intricate as required.
 In any coding language, you will often need to perform different actions based on certain condition.... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/getting-started-with-react-router" title="Getting started with React Router"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619925192159/AzXYAWKTw.png" alt="Getting started with React Router" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/getting-started-with-react-router" title="Getting started with React Router"><strong>Getting started with React Router</strong></a>
-<br/> React Router is the standard routing library for React. It has a simple API with all the powerful features like lazy code loading, dynamic route matching and location transition handling built-in. 
-It allows us to create a multi-page feel in a single... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
