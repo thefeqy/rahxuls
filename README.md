@@ -23,6 +23,10 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/what-is-scope-chain-and-lexical-scoping-in-javascript" title="What is Scope chain and Lexical Scoping in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620442035143/ce8psrY8m.png" alt="What is Scope chain and Lexical Scoping in JavaScript?" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/what-is-scope-chain-and-lexical-scoping-in-javascript" title="What is Scope chain and Lexical Scoping in JavaScript?"><strong>What is Scope chain and Lexical Scoping in JavaScript?</strong></a>
+<br/> Scope chain and Lexical Scoping are central ideas of JavaScript. These ideas confound new JavaScript developers. The information on these ideas is fundamental in dominating JavaScript. Having an appropriate comprehension of these ideas will assist yo... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/5-css-best-practices-every-front-end-developer-should-know" title="5 CSS Best Practices every front-end Developer should know"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620357714947/bw_BWbJ_R.png" alt="5 CSS Best Practices every front-end Developer should know" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/5-css-best-practices-every-front-end-developer-should-know" title="5 CSS Best Practices every front-end Developer should know"><strong>5 CSS Best Practices every front-end Developer should know</strong></a>
 <br/> Writing CSS has always been tough for me😭. But here are some best practices every front-end developer should know. 
@@ -45,11 +49,6 @@ An ... </p> <br/> <br/>
 <a href="https://rahulism.hashnode.dev/a-complete-guide-to-array-destructuring-or-javascript" title="A complete guide to Array destructuring | JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620094180945/eIzKI7u3N.png" alt="A complete guide to Array destructuring | JavaScript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/a-complete-guide-to-array-destructuring-or-javascript" title="A complete guide to Array destructuring | JavaScript"><strong>A complete guide to Array destructuring | JavaScript</strong></a>
 <br/> Destructuring in JavaScript is a worked on technique for extricating different properties from a cluster by taking the structure and deconstructing it down into its constituent parts through tasks by utilizing a grammar that seems to be like array li... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/conditional-logic-javascript-for-beginners" title="Conditional logic: JavaScript for Beginners"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620008652351/YjKRlP9v4.png" alt="Conditional logic: JavaScript for Beginners" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/conditional-logic-javascript-for-beginners" title="Conditional logic: JavaScript for Beginners"><strong>Conditional logic: JavaScript for Beginners</strong></a>
-<br/> On the off chance that statements are normally utilized in JavaScript for conditional logic and can be pretty much as basic or intricate as required.
-In any coding language, you will often need to perform different actions based on certain condition.... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
