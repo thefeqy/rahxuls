@@ -23,6 +23,10 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/react-vs-angular-final-thoughts" title="React vs Angular: Final Thoughts"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620616735829/OOE3O_uyz.jpeg" alt="React vs Angular: Final Thoughts" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/react-vs-angular-final-thoughts" title="React vs Angular: Final Thoughts"><strong>React vs Angular: Final Thoughts</strong></a>
+<br/> This post point is so normal yet we will contrast precise and respond in an exceptionally authoritative manner for students and beginners. We should begin now there  is one quite certain thing that you should know prior to perusing this article that ... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-is-scope-chain-and-lexical-scoping-in-javascript" title="What is Scope chain and Lexical Scoping in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620442035143/ce8psrY8m.png" alt="What is Scope chain and Lexical Scoping in JavaScript?" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-is-scope-chain-and-lexical-scoping-in-javascript" title="What is Scope chain and Lexical Scoping in JavaScript?"><strong>What is Scope chain and Lexical Scoping in JavaScript?</strong></a>
 <br/> Scope chain and Lexical Scoping are central ideas of JavaScript. These ideas confound new JavaScript developers. The information on these ideas is fundamental in dominating JavaScript. Having an appropriate comprehension of these ideas will assist yo... </p> <br/> <br/>
@@ -45,10 +49,6 @@ An ... </p> <br/> <br/>
 <a href="https://rahulism.hashnode.dev/a-complete-guide-to-object-destructuring-javascript" title="A complete guide to Object Destructuring: JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620187043692/jJacTNEYe.png" alt="A complete guide to Object Destructuring: JavaScript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/a-complete-guide-to-object-destructuring-javascript" title="A complete guide to Object Destructuring: JavaScript"><strong>A complete guide to Object Destructuring: JavaScript</strong></a>
 <br/> Destructuring is a method of separating an intricate construction into easier parts.  With the destructuring punctuation, we can separate more modest parts from arrays and objects.  The destructuring syntax can be utilized for variable declaration or... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/a-complete-guide-to-array-destructuring-or-javascript" title="A complete guide to Array destructuring | JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620094180945/eIzKI7u3N.png" alt="A complete guide to Array destructuring | JavaScript" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/a-complete-guide-to-array-destructuring-or-javascript" title="A complete guide to Array destructuring | JavaScript"><strong>A complete guide to Array destructuring | JavaScript</strong></a>
-<br/> Destructuring in JavaScript is a worked on technique for extricating different properties from a cluster by taking the structure and deconstructing it down into its constituent parts through tasks by utilizing a grammar that seems to be like array li... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
