@@ -23,33 +23,39 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/foreach-method-in-javascript-giveaway" title="forEach method in JavaScript + GIVEAWAY"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620786804742/VkZYdrvyb.png" alt="forEach method in JavaScript + GIVEAWAY" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/foreach-method-in-javascript-giveaway" title="forEach method in JavaScript + GIVEAWAY"><strong>forEach method in JavaScript + GIVEAWAY</strong></a>
+<div><strong>12 May 2021</strong> | <strong>12 May 2021</strong></div>
+<br/> The main purpose of forEach method is it executes a provided function once for each array element. In other words, iterates over the array. Often used in functional programming. Always returns undefined. 
+// SYNTAX:
+
+
+arr - The array forEach is itera... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-is-shallow-copy-and-deep-copy-in-javascript" title="What is Shallow Copy and Deep Copy in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620696238470/ldeTCMq5L.png" alt="What is Shallow Copy and Deep Copy in JavaScript?" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-is-shallow-copy-and-deep-copy-in-javascript" title="What is Shallow Copy and Deep Copy in JavaScript?"><strong>What is Shallow Copy and Deep Copy in JavaScript?</strong></a>
+<div><strong>11 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Hey guys in this latest post we will understand about Shallow Copy and Deep Copy in JavaScript in a very easy way. I was writing this post from the last 5 days(on my phone) and I completed it fully. I think you can make a benefit from it. 
 In my ongo... </p> <br/> <br/>
 <p align="left">
 <a href="https://rahulism.hashnode.dev/react-vs-angular-final-thoughts" title="React vs Angular: Final Thoughts"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620616735829/OOE3O_uyz.jpeg" alt="React vs Angular: Final Thoughts" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/react-vs-angular-final-thoughts" title="React vs Angular: Final Thoughts"><strong>React vs Angular: Final Thoughts</strong></a>
+<div><strong>10 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> This post point is so normal yet we will contrast precise and respond in an exceptionally authoritative manner for students and beginners. We should begin now there  is one quite certain thing that you should know prior to perusing this article that ... </p> <br/> <br/>
 <p align="left">
 <a href="https://rahulism.hashnode.dev/what-is-scope-chain-and-lexical-scoping-in-javascript" title="What is Scope chain and Lexical Scoping in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620442035143/ce8psrY8m.png" alt="What is Scope chain and Lexical Scoping in JavaScript?" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-is-scope-chain-and-lexical-scoping-in-javascript" title="What is Scope chain and Lexical Scoping in JavaScript?"><strong>What is Scope chain and Lexical Scoping in JavaScript?</strong></a>
+<div><strong>8 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Scope chain and Lexical Scoping are central ideas of JavaScript. These ideas confound new JavaScript developers. The information on these ideas is fundamental in dominating JavaScript. Having an appropriate comprehension of these ideas will assist yo... </p> <br/> <br/>
 <p align="left">
 <a href="https://rahulism.hashnode.dev/5-css-best-practices-every-front-end-developer-should-know" title="5 CSS Best Practices every front-end Developer should know"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620357714947/bw_BWbJ_R.png" alt="5 CSS Best Practices every front-end Developer should know" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/5-css-best-practices-every-front-end-developer-should-know" title="5 CSS Best Practices every front-end Developer should know"><strong>5 CSS Best Practices every front-end Developer should know</strong></a>
+<div><strong>7 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Writing CSS has always been tough for me😭. But here are some best practices every front-end developer should know. 
 Without further talks, let's see them. 
 
 Using the vendor prefixes
 Vendor prefixed is a way for the browser to add support for new CS... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/what-are-functions-in-javascript-beginners" title="What are functions in JavaScript: Beginners"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620268671818/44OnITo3p.png" alt="What are functions in JavaScript: Beginners" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/what-are-functions-in-javascript-beginners" title="What are functions in JavaScript: Beginners"><strong>What are functions in JavaScript: Beginners</strong></a>
-<br/> In this section, we cover functions, what they are utilized for and how to keep in touch with them. A function is a way to encapsulate a portion of your code so a specific action can e reused and called on to run at a specific time. 
-
-Declaration
-An ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
