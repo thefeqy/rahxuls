@@ -23,6 +23,13 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/state-makes-react-powerful" title="State makes React powerful"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620876508168/w53GRnPTC.png" alt="State makes React powerful" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/state-makes-react-powerful" title="State makes React powerful"><strong>State makes React powerful</strong></a>
+<div><strong>13 May 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> The heart of React - that's the state. It is an object which makes your component active and dynamic. This post will improve or build your understanding of this abstract topic for the most developer. As always, let's dive in!
+
+I am gonna take in mind... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/foreach-method-in-javascript-giveaway" title="forEach method in JavaScript + GIVEAWAY"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620786804742/VkZYdrvyb.png" alt="forEach method in JavaScript + GIVEAWAY" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/foreach-method-in-javascript-giveaway" title="forEach method in JavaScript + GIVEAWAY"><strong>forEach method in JavaScript + GIVEAWAY</strong></a>
 <div><strong>12 May 2021</strong> | <strong>12 May 2021</strong></div>
@@ -47,15 +54,6 @@ In my ongo... </p> <br/> <br/>
 <a href="https://rahulism.hashnode.dev/what-is-scope-chain-and-lexical-scoping-in-javascript" title="What is Scope chain and Lexical Scoping in JavaScript?"><strong>What is Scope chain and Lexical Scoping in JavaScript?</strong></a>
 <div><strong>8 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Scope chain and Lexical Scoping are central ideas of JavaScript. These ideas confound new JavaScript developers. The information on these ideas is fundamental in dominating JavaScript. Having an appropriate comprehension of these ideas will assist yo... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/5-css-best-practices-every-front-end-developer-should-know" title="5 CSS Best Practices every front-end Developer should know"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620357714947/bw_BWbJ_R.png" alt="5 CSS Best Practices every front-end Developer should know" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/5-css-best-practices-every-front-end-developer-should-know" title="5 CSS Best Practices every front-end Developer should know"><strong>5 CSS Best Practices every front-end Developer should know</strong></a>
-<div><strong>7 May 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> Writing CSS has always been tough for me😭. But here are some best practices every front-end developer should know. 
-Without further talks, let's see them. 
-
-Using the vendor prefixes
-Vendor prefixed is a way for the browser to add support for new CS... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
