@@ -23,6 +23,12 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/a-brief-post-on-this-keyword" title="A brief post on `this` keyword"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620965874145/MC9-FIiXv.png" alt="A brief post on `this` keyword" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/a-brief-post-on-this-keyword" title="A brief post on `this` keyword"><strong>A brief post on `this` keyword</strong></a>
+<div><strong>14 May 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> The JavaScript this keyword refers to the object where it is used in. It's as if you could open your body, touch and move your organs kinda like. But instead of you doing this weird thing, the object does it on itself. (poor object .. ;/)
+const iamOb... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/state-makes-react-powerful" title="State makes React powerful"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620876508168/w53GRnPTC.png" alt="State makes React powerful" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/state-makes-react-powerful" title="State makes React powerful"><strong>State makes React powerful</strong></a>
 <div><strong>13 May 2021</strong> | <strong>1 Jan 1970</strong></div>
@@ -49,11 +55,6 @@ In my ongo... </p> <br/> <br/>
 <a href="https://rahulism.hashnode.dev/react-vs-angular-final-thoughts" title="React vs Angular: Final Thoughts"><strong>React vs Angular: Final Thoughts</strong></a>
 <div><strong>10 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> This post point is so normal yet we will contrast precise and respond in an exceptionally authoritative manner for students and beginners. We should begin now there  is one quite certain thing that you should know prior to perusing this article that ... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/what-is-scope-chain-and-lexical-scoping-in-javascript" title="What is Scope chain and Lexical Scoping in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620442035143/ce8psrY8m.png" alt="What is Scope chain and Lexical Scoping in JavaScript?" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/what-is-scope-chain-and-lexical-scoping-in-javascript" title="What is Scope chain and Lexical Scoping in JavaScript?"><strong>What is Scope chain and Lexical Scoping in JavaScript?</strong></a>
-<div><strong>8 May 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> Scope chain and Lexical Scoping are central ideas of JavaScript. These ideas confound new JavaScript developers. The information on these ideas is fundamental in dominating JavaScript. Having an appropriate comprehension of these ideas will assist yo... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
