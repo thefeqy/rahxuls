@@ -23,6 +23,13 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/an-ultimate-guide-to-regex-and-how-to-use-it-in-javascript" title="An ultimate guide to Regex and how to use it in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621048788324/423UFtwh2.png" alt="An ultimate guide to Regex and how to use it in JavaScript" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/an-ultimate-guide-to-regex-and-how-to-use-it-in-javascript" title="An ultimate guide to Regex and how to use it in JavaScript"><strong>An ultimate guide to Regex and how to use it in JavaScript</strong></a>
+<div><strong>15 May 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> Regular expressions play a vital role in every high-level programming language and so in JavaScript. Let's know them all in detail...
+
+A Regular Expression (RegEx) is a sequence of characters that defines a search pattern. It helps you to "match" par... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/a-brief-post-on-this-keyword" title="A brief post on `this` keyword"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620965874145/MC9-FIiXv.png" alt="A brief post on `this` keyword" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/a-brief-post-on-this-keyword" title="A brief post on `this` keyword"><strong>A brief post on `this` keyword</strong></a>
 <div><strong>14 May 2021</strong> | <strong>1 Jan 1970</strong></div>
@@ -50,11 +57,6 @@ arr - The array forEach is itera... </p> <br/> <br/>
 <div><strong>11 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Hey guys in this latest post we will understand about Shallow Copy and Deep Copy in JavaScript in a very easy way. I was writing this post from the last 5 days(on my phone) and I completed it fully. I think you can make a benefit from it. 
 In my ongo... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/react-vs-angular-final-thoughts" title="React vs Angular: Final Thoughts"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620616735829/OOE3O_uyz.jpeg" alt="React vs Angular: Final Thoughts" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/react-vs-angular-final-thoughts" title="React vs Angular: Final Thoughts"><strong>React vs Angular: Final Thoughts</strong></a>
-<div><strong>10 May 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> This post point is so normal yet we will contrast precise and respond in an exceptionally authoritative manner for students and beginners. We should begin now there  is one quite certain thing that you should know prior to perusing this article that ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
