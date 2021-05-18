@@ -23,6 +23,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/what-is-module-pattern-in-javascript-oop" title="What is Module Pattern in JavaScript: OOP"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621227112107/fEIqwjOCk.png" alt="What is Module Pattern in JavaScript: OOP" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/what-is-module-pattern-in-javascript-oop" title="What is Module Pattern in JavaScript: OOP"><strong>What is Module Pattern in JavaScript: OOP</strong></a>
+<div><strong>17 May 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> Traditional object-oriented programming like Java, C++, Python etc, make use of the class object to create self-contained and decoupled units of code, which can be treated as block boxes of functionality that can be enhanced, added and removed accord... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/an-ultimate-guide-to-regex-and-how-to-use-it-in-javascript" title="An ultimate guide to Regex and how to use it in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621048788324/423UFtwh2.png" alt="An ultimate guide to Regex and how to use it in JavaScript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/an-ultimate-guide-to-regex-and-how-to-use-it-in-javascript" title="An ultimate guide to Regex and how to use it in JavaScript"><strong>An ultimate guide to Regex and how to use it in JavaScript</strong></a>
 <div><strong>15 May 2021</strong> | <strong>1 Jan 1970</strong></div>
@@ -51,12 +56,6 @@ I am gonna take in mind... </p> <br/> <br/>
 
 
 arr - The array forEach is itera... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/what-is-shallow-copy-and-deep-copy-in-javascript" title="What is Shallow Copy and Deep Copy in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620696238470/ldeTCMq5L.png" alt="What is Shallow Copy and Deep Copy in JavaScript?" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/what-is-shallow-copy-and-deep-copy-in-javascript" title="What is Shallow Copy and Deep Copy in JavaScript?"><strong>What is Shallow Copy and Deep Copy in JavaScript?</strong></a>
-<div><strong>11 May 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> Hey guys in this latest post we will understand about Shallow Copy and Deep Copy in JavaScript in a very easy way. I was writing this post from the last 5 days(on my phone) and I completed it fully. I think you can make a benefit from it. 
-In my ongo... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
