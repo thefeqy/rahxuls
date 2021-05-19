@@ -23,6 +23,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/what-is-bigint-in-javascript" title="What is BigInt in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621315909039/B-VFkCQc1.png" alt="What is BigInt in JavaScript?" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/what-is-bigint-in-javascript" title="What is BigInt in JavaScript?"><strong>What is BigInt in JavaScript?</strong></a>
+<div><strong>18 May 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> BigInt is a built-in object that provides a way to represent a whole number larger than 253 - 2, which is the largest number JavaScript can represent with Number. BigInt is created by appending n to the end of an integer literal or invoking the BigIn... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-is-module-pattern-in-javascript-oop" title="What is Module Pattern in JavaScript: OOP"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621227112107/fEIqwjOCk.png" alt="What is Module Pattern in JavaScript: OOP" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-is-module-pattern-in-javascript-oop" title="What is Module Pattern in JavaScript: OOP"><strong>What is Module Pattern in JavaScript: OOP</strong></a>
 <div><strong>17 May 2021</strong> | <strong>1 Jan 1970</strong></div>
@@ -47,15 +52,6 @@ const iamOb... </p> <br/> <br/>
 <br/> The heart of React - that's the state. It is an object which makes your component active and dynamic. This post will improve or build your understanding of this abstract topic for the most developer. As always, let's dive in!
 
 I am gonna take in mind... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/foreach-method-in-javascript-giveaway" title="forEach method in JavaScript + GIVEAWAY"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620786804742/VkZYdrvyb.png" alt="forEach method in JavaScript + GIVEAWAY" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/foreach-method-in-javascript-giveaway" title="forEach method in JavaScript + GIVEAWAY"><strong>forEach method in JavaScript + GIVEAWAY</strong></a>
-<div><strong>12 May 2021</strong> | <strong>12 May 2021</strong></div>
-<br/> The main purpose of forEach method is it executes a provided function once for each array element. In other words, iterates over the array. Often used in functional programming. Always returns undefined. 
-// SYNTAX:
-
-
-arr - The array forEach is itera... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
