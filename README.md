@@ -23,6 +23,12 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/tail-recursive-function-in-javascript" title="Tail recursive function in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621421857506/Zz36APtLL.png" alt="Tail recursive function in JavaScript" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/tail-recursive-function-in-javascript" title="Tail recursive function in JavaScript"><strong>Tail recursive function in JavaScript</strong></a>
+<div><strong>19 May 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> A recursive function is a function that calls itself until it doesn't stop. This technique is called recursion. 
+Here, function factorial is called in a loop like procedure. Initially, it invokes from outside of the function and invoked inside the sa... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-is-bigint-in-javascript" title="What is BigInt in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621315909039/B-VFkCQc1.png" alt="What is BigInt in JavaScript?" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-is-bigint-in-javascript" title="What is BigInt in JavaScript?"><strong>What is BigInt in JavaScript?</strong></a>
 <div><strong>18 May 2021</strong> | <strong>1 Jan 1970</strong></div>
@@ -45,13 +51,6 @@ A Regular Expression (RegEx) is a sequence of characters that defines a search p
 <div><strong>14 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> The JavaScript this keyword refers to the object where it is used in. It's as if you could open your body, touch and move your organs kinda like. But instead of you doing this weird thing, the object does it on itself. (poor object .. ;/)
 const iamOb... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/state-makes-react-powerful" title="State makes React powerful"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620876508168/w53GRnPTC.png" alt="State makes React powerful" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/state-makes-react-powerful" title="State makes React powerful"><strong>State makes React powerful</strong></a>
-<div><strong>13 May 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> The heart of React - that's the state. It is an object which makes your component active and dynamic. This post will improve or build your understanding of this abstract topic for the most developer. As always, let's dive in!
-
-I am gonna take in mind... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
