@@ -23,6 +23,14 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/symbol-in-javascript-a-primitive-data-type" title="Symbol in JavaScript a primitive data type"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621506444846/XHgROQTBc.png" alt="Symbol in JavaScript a primitive data type" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/symbol-in-javascript-a-primitive-data-type" title="Symbol in JavaScript a primitive data type"><strong>Symbol in JavaScript a primitive data type</strong></a>
+<div><strong>20 May 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> It is a primitive data type along with string, number, boolean, null and undefined. To create a new primitive symbol, you define it with the following syntax. 
+let mySymbol = Symbol();
+
+You can pass a parameter to Symbol(), and that is used as the sy... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/tail-recursive-function-in-javascript" title="Tail recursive function in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621421857506/Zz36APtLL.png" alt="Tail recursive function in JavaScript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/tail-recursive-function-in-javascript" title="Tail recursive function in JavaScript"><strong>Tail recursive function in JavaScript</strong></a>
 <div><strong>19 May 2021</strong> | <strong>1 Jan 1970</strong></div>
@@ -45,12 +53,6 @@ Here, function factorial is called in a loop like procedure. Initially, it invok
 <br/> Regular expressions play a vital role in every high-level programming language and so in JavaScript. Let's know them all in detail...
 
 A Regular Expression (RegEx) is a sequence of characters that defines a search pattern. It helps you to "match" par... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/a-brief-post-on-this-keyword" title="A brief post on `this` keyword"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620965874145/MC9-FIiXv.png" alt="A brief post on `this` keyword" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/a-brief-post-on-this-keyword" title="A brief post on `this` keyword"><strong>A brief post on `this` keyword</strong></a>
-<div><strong>14 May 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> The JavaScript this keyword refers to the object where it is used in. It's as if you could open your body, touch and move your organs kinda like. But instead of you doing this weird thing, the object does it on itself. (poor object .. ;/)
-const iamOb... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
