@@ -23,6 +23,12 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/what-is-globalthis-in-javascript" title="What is globalThis in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621598034871/L3pozlBHw.png" alt="What is globalThis in JavaScript" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/what-is-globalthis-in-javascript" title="What is globalThis in JavaScript"><strong>What is globalThis in JavaScript</strong></a>
+<div><strong>21 May 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> The javascript languages are increasingly used in a wide variety of environments. In addition to the web browsers which is the most common type of host environment for JavaScript programs in server, smartphones, and even robotic hardware. 
+Each envir... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/symbol-in-javascript-a-primitive-data-type" title="Symbol in JavaScript a primitive data type"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621506444846/XHgROQTBc.png" alt="Symbol in JavaScript a primitive data type" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/symbol-in-javascript-a-primitive-data-type" title="Symbol in JavaScript a primitive data type"><strong>Symbol in JavaScript a primitive data type</strong></a>
 <div><strong>20 May 2021</strong> | <strong>1 Jan 1970</strong></div>
@@ -46,13 +52,6 @@ Here, function factorial is called in a loop like procedure. Initially, it invok
 <a href="https://rahulism.hashnode.dev/what-is-module-pattern-in-javascript-oop" title="What is Module Pattern in JavaScript: OOP"><strong>What is Module Pattern in JavaScript: OOP</strong></a>
 <div><strong>17 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Traditional object-oriented programming like Java, C++, Python etc, make use of the class object to create self-contained and decoupled units of code, which can be treated as block boxes of functionality that can be enhanced, added and removed accord... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/an-ultimate-guide-to-regex-and-how-to-use-it-in-javascript" title="An ultimate guide to Regex and how to use it in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621048788324/423UFtwh2.png" alt="An ultimate guide to Regex and how to use it in JavaScript" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/an-ultimate-guide-to-regex-and-how-to-use-it-in-javascript" title="An ultimate guide to Regex and how to use it in JavaScript"><strong>An ultimate guide to Regex and how to use it in JavaScript</strong></a>
-<div><strong>15 May 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> Regular expressions play a vital role in every high-level programming language and so in JavaScript. Let's know them all in detail...
-
-A Regular Expression (RegEx) is a sequence of characters that defines a search pattern. It helps you to "match" par... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
