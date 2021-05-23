@@ -23,6 +23,23 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/scope-in-javascript-function-block-lexical-global" title="Scope in JavaScript: Function, Block, Lexical, Global"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621677404321/Bxaxojc9p.png" alt="Scope in JavaScript: Function, Block, Lexical, Global" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/scope-in-javascript-function-block-lexical-global" title="Scope in JavaScript: Function, Block, Lexical, Global"><strong>Scope in JavaScript: Function, Block, Lexical, Global</strong></a>
+<div><strong>22 May 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> A scope defines the lifetime visibility of a variable. Variables are not visible outside the scope in which they are declared. 
+Types of Scope in JavaScript
+
+Module Scope
+Function Scope
+Block Scope
+Lexical Scope
+Global Scope
+
+
+
+Module Scope
+A variabl... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-is-globalthis-in-javascript" title="What is globalThis in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621598034871/L3pozlBHw.png" alt="What is globalThis in JavaScript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-is-globalthis-in-javascript" title="What is globalThis in JavaScript"><strong>What is globalThis in JavaScript</strong></a>
 <div><strong>21 May 2021</strong> | <strong>1 Jan 1970</strong></div>
@@ -47,11 +64,6 @@ Here, function factorial is called in a loop like procedure. Initially, it invok
 <a href="https://rahulism.hashnode.dev/what-is-bigint-in-javascript" title="What is BigInt in JavaScript?"><strong>What is BigInt in JavaScript?</strong></a>
 <div><strong>18 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> BigInt is a built-in object that provides a way to represent a whole number larger than 253 - 2, which is the largest number JavaScript can represent with Number. BigInt is created by appending n to the end of an integer literal or invoking the BigIn... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/what-is-module-pattern-in-javascript-oop" title="What is Module Pattern in JavaScript: OOP"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621227112107/fEIqwjOCk.png" alt="What is Module Pattern in JavaScript: OOP" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/what-is-module-pattern-in-javascript-oop" title="What is Module Pattern in JavaScript: OOP"><strong>What is Module Pattern in JavaScript: OOP</strong></a>
-<div><strong>17 May 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> Traditional object-oriented programming like Java, C++, Python etc, make use of the class object to create self-contained and decoupled units of code, which can be treated as block boxes of functionality that can be enhanced, added and removed accord... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
