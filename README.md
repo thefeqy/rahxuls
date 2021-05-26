@@ -23,6 +23,12 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/an-ultimate-guide-to-javascript-promises" title="An ultimate guide to JavaScript Promises"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621911050131/f5SSVSDrb.png" alt="An ultimate guide to JavaScript Promises" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/an-ultimate-guide-to-javascript-promises" title="An ultimate guide to JavaScript Promises"><strong>An ultimate guide to JavaScript Promises</strong></a>
+<div><strong>25 May 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> Before diving in, you should have a bare understanding of what is asynchronous programming. For more on that, check out this series. Let's look at how to use a promise: 
+MakeRequest is our function which returns a promise. This promise has some metho... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-is-nullish-coalescing-operator" title="What is Nullish Coalescing Operator?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621855272888/Hk5I46zUO.png" alt="What is Nullish Coalescing Operator?" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-is-nullish-coalescing-operator" title="What is Nullish Coalescing Operator?"><strong>What is Nullish Coalescing Operator?</strong></a>
 <div><strong>24 May 2021</strong> | <strong>1 Jan 1970</strong></div>
@@ -58,12 +64,6 @@ Each envir... </p> <br/> <br/>
 let mySymbol = Symbol();
 
 You can pass a parameter to Symbol(), and that is used as the sy... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/tail-recursive-function-in-javascript" title="Tail recursive function in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621421857506/Zz36APtLL.png" alt="Tail recursive function in JavaScript" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/tail-recursive-function-in-javascript" title="Tail recursive function in JavaScript"><strong>Tail recursive function in JavaScript</strong></a>
-<div><strong>19 May 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> A recursive function is a function that calls itself until it doesn't stop. This technique is called recursion. 
-Here, function factorial is called in a loop like procedure. Initially, it invokes from outside of the function and invoked inside the sa... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
