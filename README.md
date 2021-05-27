@@ -23,6 +23,13 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/how-to-send-http-requests-in-react" title="How to send HTTP requests in React"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622004712630/bOB_8moF-.png" alt="How to send HTTP requests in React" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/how-to-send-http-requests-in-react" title="How to send HTTP requests in React"><strong>How to send HTTP requests in React</strong></a>
+<div><strong>26 May 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> In the tutorial, you will understand how to reach out to the web or connect your front-end with the backend in React, using a library called Axios. 
+Let's see. 
+Typically, when you send a request to the server from a React app, what it returns to you... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/an-ultimate-guide-to-javascript-promises" title="An ultimate guide to JavaScript Promises"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621911050131/f5SSVSDrb.png" alt="An ultimate guide to JavaScript Promises" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/an-ultimate-guide-to-javascript-promises" title="An ultimate guide to JavaScript Promises"><strong>An ultimate guide to JavaScript Promises</strong></a>
 <div><strong>25 May 2021</strong> | <strong>1 Jan 1970</strong></div>
@@ -56,14 +63,6 @@ A variabl... </p> <br/> <br/>
 <div><strong>21 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> The javascript languages are increasingly used in a wide variety of environments. In addition to the web browsers which is the most common type of host environment for JavaScript programs in server, smartphones, and even robotic hardware. 
 Each envir... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/symbol-in-javascript-a-primitive-data-type" title="Symbol in JavaScript a primitive data type"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621506444846/XHgROQTBc.png" alt="Symbol in JavaScript a primitive data type" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/symbol-in-javascript-a-primitive-data-type" title="Symbol in JavaScript a primitive data type"><strong>Symbol in JavaScript a primitive data type</strong></a>
-<div><strong>20 May 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> It is a primitive data type along with string, number, boolean, null and undefined. To create a new primitive symbol, you define it with the following syntax. 
-let mySymbol = Symbol();
-
-You can pass a parameter to Symbol(), and that is used as the sy... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
