@@ -23,6 +23,14 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/javascript-oddities-and-secrets-you-need-to-know" title="JavaScript Oddities and Secrets you need to know"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622186133204/4LlRJIrnh.png" alt="JavaScript Oddities and Secrets you need to know" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/javascript-oddities-and-secrets-you-need-to-know" title="JavaScript Oddities and Secrets you need to know"><strong>JavaScript Oddities and Secrets you need to know</strong></a>
+<div><strong>28 May 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> In this post, I will cover some things that are cool and most of you're unaware of. Let' see them. 
+
+Null is an Object
+Null is an object. Despite this, null is not considered as an instance of an object. This brings us back to sanity, because if null... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/asynchronous-programming-in-javascript" title="Asynchronous Programming in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622095969334/EDkvIgxJ7.png" alt="Asynchronous Programming in JavaScript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/asynchronous-programming-in-javascript" title="Asynchronous Programming in JavaScript"><strong>Asynchronous Programming in JavaScript</strong></a>
 <div><strong>27 May 2021</strong> | <strong>1 Jan 1970</strong></div>
@@ -47,23 +55,6 @@ MakeRequest is our function which returns a promise. This promise has some metho
 <a href="https://rahulism.hashnode.dev/what-is-nullish-coalescing-operator" title="What is Nullish Coalescing Operator?"><strong>What is Nullish Coalescing Operator?</strong></a>
 <div><strong>24 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> With the presentation of Symbols (fortunately to which you can make 100% interesting properties - consistently), Optional Chaining, Nullish Coalescing, destructuring assignment and much more JavaScript is turning into a truly steady language reasonab... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/scope-in-javascript-function-block-lexical-global" title="Scope in JavaScript: Function, Block, Lexical, Global"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621677404321/Bxaxojc9p.png" alt="Scope in JavaScript: Function, Block, Lexical, Global" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/scope-in-javascript-function-block-lexical-global" title="Scope in JavaScript: Function, Block, Lexical, Global"><strong>Scope in JavaScript: Function, Block, Lexical, Global</strong></a>
-<div><strong>22 May 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> A scope defines the lifetime visibility of a variable. Variables are not visible outside the scope in which they are declared. 
-Types of Scope in JavaScript
-
-Module Scope
-Function Scope
-Block Scope
-Lexical Scope
-Global Scope
-
-
-
-Module Scope
-A variabl... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
