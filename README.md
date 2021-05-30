@@ -23,9 +23,16 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/classical-inheritance-vs-prototype-delegation-in-javascript" title="Classical inheritance vs Prototype delegation in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622265106837/rRv2BAm_z.png" alt="Classical inheritance vs Prototype delegation in JavaScript" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/classical-inheritance-vs-prototype-delegation-in-javascript" title="Classical inheritance vs Prototype delegation in JavaScript"><strong>Classical inheritance vs Prototype delegation in JavaScript</strong></a>
+<div><strong>29 May 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> In my previous posts, I have covered Class and Prototype in JavaScript and learned its behaviour and working. In this post, we're going to do an ultimate faceoff😂 Kidding. Just a simple post about Prototype vs Class Delegation in JavaScript. 
+
+Proto... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/javascript-oddities-and-secrets-you-need-to-know" title="JavaScript Oddities and Secrets you need to know"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622186133204/4LlRJIrnh.png" alt="JavaScript Oddities and Secrets you need to know" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/javascript-oddities-and-secrets-you-need-to-know" title="JavaScript Oddities and Secrets you need to know"><strong>JavaScript Oddities and Secrets you need to know</strong></a>
-<div><strong>28 May 2021</strong> | <strong>1 Jan 1970</strong></div>
+<div><strong>28 May 2021</strong> | <strong>29 May 2021</strong></div>
 <br/> In this post, I will cover some things that are cool and most of you're unaware of. Let' see them. 
 
 Null is an Object
@@ -50,11 +57,6 @@ Typically, when you send a request to the server from a React app, what it retur
 <div><strong>25 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Before diving in, you should have a bare understanding of what is asynchronous programming. For more on that, check out this series. Let's look at how to use a promise: 
 MakeRequest is our function which returns a promise. This promise has some metho... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/what-is-nullish-coalescing-operator" title="What is Nullish Coalescing Operator?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621855272888/Hk5I46zUO.png" alt="What is Nullish Coalescing Operator?" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/what-is-nullish-coalescing-operator" title="What is Nullish Coalescing Operator?"><strong>What is Nullish Coalescing Operator?</strong></a>
-<div><strong>24 May 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> With the presentation of Symbols (fortunately to which you can make 100% interesting properties - consistently), Optional Chaining, Nullish Coalescing, destructuring assignment and much more JavaScript is turning into a truly steady language reasonab... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
