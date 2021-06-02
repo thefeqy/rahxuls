@@ -23,6 +23,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/all-you-need-to-know-about-high-order-functions-in-javascript" title="All you need to know about High Order Functions in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622531017814/ocUcE60bX.png" alt="All you need to know about High Order Functions in JavaScript" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/all-you-need-to-know-about-high-order-functions-in-javascript" title="All you need to know about High Order Functions in JavaScript"><strong>All you need to know about High Order Functions in JavaScript</strong></a>
+<div><strong>1 June 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> As a JavaScript developer you will utilize high order functions frequently, so having a decent comprehension of these functions is vital. Presently I see individuals get frequently confounded when finding out about the reduce() technique, yet I had c... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/my-200th-post" title="My 200th Post."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622449077688/_kNd_dLHw.png" alt="My 200th Post." width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/my-200th-post" title="My 200th Post."><strong>My 200th Post.</strong></a>
 <div><strong>31 May 2021</strong> | <strong>31 May 2021</strong></div>
@@ -52,13 +57,6 @@ Null is an object. Despite this, null is not considered as an instance of an obj
 <br/> They say time is the fourth measurement in our universe. I say that nonconcurrent(asynchronous) computer programs are the fourth element of your rationale. You wanna raise your coding to this new even out of authority? Let's read this post.
 
 First, l... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/how-to-send-http-requests-in-react" title="How to send HTTP requests in React"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622004712630/bOB_8moF-.png" alt="How to send HTTP requests in React" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/how-to-send-http-requests-in-react" title="How to send HTTP requests in React"><strong>How to send HTTP requests in React</strong></a>
-<div><strong>26 May 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> In the tutorial, you will understand how to reach out to the web or connect your front-end with the backend in React, using a library called Axios. 
-Let's see. 
-Typically, when you send a request to the server from a React app, what it returns to you... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
