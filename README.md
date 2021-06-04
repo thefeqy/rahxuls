@@ -23,6 +23,14 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/what-is-scheduling-in-javascript-1" title="What is Scheduling in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622685114780/qHenBt6S8.png" alt="What is Scheduling in JavaScript?" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/what-is-scheduling-in-javascript-1" title="What is Scheduling in JavaScript?"><strong>What is Scheduling in JavaScript?</strong></a>
+<div><strong>3 June 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> Generally, these two things disturb and irritate a lot when learning JS. In this post, we'll learn how to use them as a beginner. 
+Sometimes we may decide to execute a function after a certain time delay. That's called  "scheduling a call". 
+
+setTime... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/all-you-need-to-know-about-high-order-functions-in-javascript" title="All you need to know about High Order Functions in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622531017814/ocUcE60bX.png" alt="All you need to know about High Order Functions in JavaScript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/all-you-need-to-know-about-high-order-functions-in-javascript" title="All you need to know about High Order Functions in JavaScript"><strong>All you need to know about High Order Functions in JavaScript</strong></a>
 <div><strong>1 June 2021</strong> | <strong>1 Jan 1970</strong></div>
@@ -50,13 +58,6 @@ Proto... </p> <br/> <br/>
 
 Null is an Object
 Null is an object. Despite this, null is not considered as an instance of an object. This brings us back to sanity, because if null... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/asynchronous-programming-in-javascript" title="Asynchronous Programming in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622095969334/EDkvIgxJ7.png" alt="Asynchronous Programming in JavaScript" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/asynchronous-programming-in-javascript" title="Asynchronous Programming in JavaScript"><strong>Asynchronous Programming in JavaScript</strong></a>
-<div><strong>27 May 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> They say time is the fourth measurement in our universe. I say that nonconcurrent(asynchronous) computer programs are the fourth element of your rationale. You wanna raise your coding to this new even out of authority? Let's read this post.
-
-First, l... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
