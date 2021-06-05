@@ -23,6 +23,16 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/what-is-reduce-method-in-javascript" title="What is reduce() method in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622776519906/8DTVvU1FB.png" alt="What is reduce() method in JavaScript" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/what-is-reduce-method-in-javascript" title="What is reduce() method in JavaScript"><strong>What is reduce() method in JavaScript</strong></a>
+<div><strong>4 June 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> The reduce() method is used to apply a function to each element in the array to reduce the array to a single value.Let's see the syntax:- 
+let result = array.reduce((acc, v, i, a) => {
+  // return the new value to the result variable 
+}, initVal);
+
+/... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-is-scheduling-in-javascript-1" title="What is Scheduling in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622685114780/qHenBt6S8.png" alt="What is Scheduling in JavaScript?" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-is-scheduling-in-javascript-1" title="What is Scheduling in JavaScript?"><strong>What is Scheduling in JavaScript?</strong></a>
 <div><strong>3 June 2021</strong> | <strong>1 Jan 1970</strong></div>
@@ -50,14 +60,6 @@ I'm Rahul, from India... </p> <br/> <br/>
 <br/> In my previous posts, I have covered Class and Prototype in JavaScript and learned its behaviour and working. In this post, we're going to do an ultimate faceoff😂 Kidding. Just a simple post about Prototype vs Class Delegation in JavaScript. 
 
 Proto... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/javascript-oddities-and-secrets-you-need-to-know" title="JavaScript Oddities and Secrets you need to know"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622186133204/4LlRJIrnh.png" alt="JavaScript Oddities and Secrets you need to know" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/javascript-oddities-and-secrets-you-need-to-know" title="JavaScript Oddities and Secrets you need to know"><strong>JavaScript Oddities and Secrets you need to know</strong></a>
-<div><strong>28 May 2021</strong> | <strong>29 May 2021</strong></div>
-<br/> In this post, I will cover some things that are cool and most of you're unaware of. Let' see them. 
-
-Null is an Object
-Null is an object. Despite this, null is not considered as an instance of an object. This brings us back to sanity, because if null... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
