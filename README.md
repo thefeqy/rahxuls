@@ -23,6 +23,13 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/page-visibility-and-full-screen-mode-web-api-or-web-development-for-beginners" title="Page visibility and full-screen mode WEB API  | Web Development for Beginners"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622862318486/_CGBQkVX5.jpeg" alt="Page visibility and full-screen mode WEB API  | Web Development for Beginners" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/page-visibility-and-full-screen-mode-web-api-or-web-development-for-beginners" title="Page visibility and full-screen mode WEB API  | Web Development for Beginners"><strong>Page visibility and full-screen mode WEB API  | Web Development for Beginners</strong></a>
+<div><strong>5 June 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> Hey, learners and beginners here are my latest post, where we gonna learn about the Page visibility and Full-Screen Mode WEB API. 
+Page visibility Web API
+PageVisibility API is used for detecting the visibility of the page. The document object provid... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/what-is-reduce-method-in-javascript" title="What is reduce() method in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622776519906/8DTVvU1FB.png" alt="What is reduce() method in JavaScript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/what-is-reduce-method-in-javascript" title="What is reduce() method in JavaScript"><strong>What is reduce() method in JavaScript</strong></a>
 <div><strong>4 June 2021</strong> | <strong>1 Jan 1970</strong></div>
@@ -53,13 +60,6 @@ setTime... </p> <br/> <br/>
 
 About Me
 I'm Rahul, from India... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/classical-inheritance-vs-prototype-delegation-in-javascript" title="Classical inheritance vs Prototype delegation in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622265106837/rRv2BAm_z.png" alt="Classical inheritance vs Prototype delegation in JavaScript" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/classical-inheritance-vs-prototype-delegation-in-javascript" title="Classical inheritance vs Prototype delegation in JavaScript"><strong>Classical inheritance vs Prototype delegation in JavaScript</strong></a>
-<div><strong>29 May 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> In my previous posts, I have covered Class and Prototype in JavaScript and learned its behaviour and working. In this post, we're going to do an ultimate faceoff😂 Kidding. Just a simple post about Prototype vs Class Delegation in JavaScript. 
-
-Proto... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
