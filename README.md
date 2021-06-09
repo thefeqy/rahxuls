@@ -23,6 +23,18 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/navigation-with-react-router-1" title="Navigation with React Router"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1623120018574/vnl-Mrx06.png" alt="Navigation with React Router" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/navigation-with-react-router-1" title="Navigation with React Router"><strong>Navigation with React Router</strong></a>
+<div><strong>8 June 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> React Router is a simple library of React inside web app for handling routes. Here we will learn Navigation with React-Router. 
+
+Basic routing with react-router-dom
+Let's see these two Components. 
+const PageOne = () => {
+    return (
+        <>
+    ... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/page-visibility-and-full-screen-mode-web-api-or-web-development-for-beginners" title="Page visibility and full-screen mode WEB API  | Web Development for Beginners"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622862318486/_CGBQkVX5.jpeg" alt="Page visibility and full-screen mode WEB API  | Web Development for Beginners" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/page-visibility-and-full-screen-mode-web-api-or-web-development-for-beginners" title="Page visibility and full-screen mode WEB API  | Web Development for Beginners"><strong>Page visibility and full-screen mode WEB API  | Web Development for Beginners</strong></a>
 <div><strong>5 June 2021</strong> | <strong>1 Jan 1970</strong></div>
@@ -52,14 +64,6 @@ setTime... </p> <br/> <br/>
 <a href="https://rahulism.hashnode.dev/all-you-need-to-know-about-high-order-functions-in-javascript" title="All you need to know about High Order Functions in JavaScript"><strong>All you need to know about High Order Functions in JavaScript</strong></a>
 <div><strong>1 June 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> As a JavaScript developer you will utilize high order functions frequently, so having a decent comprehension of these functions is vital. Presently I see individuals get frequently confounded when finding out about the reduce() technique, yet I had c... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/my-200th-post" title="My 200th Post."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622449077688/_kNd_dLHw.png" alt="My 200th Post." width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/my-200th-post" title="My 200th Post."><strong>My 200th Post.</strong></a>
-<div><strong>31 May 2021</strong> | <strong>31 May 2021</strong></div>
-<br/> I am thrilled to write my 200th post Hashnode as a developer. In this post, I'll get you covered everything you should know about me. If you're here or have read anyone post on my blog, you're important to me, ALWAYS. 
-
-About Me
-I'm Rahul, from India... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
