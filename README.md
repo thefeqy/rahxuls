@@ -23,6 +23,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/high-order-functions-in-javascript" title="High Order Functions in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1623206062798/w2nKzJ2IM.png" alt="High Order Functions in JavaScript" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/high-order-functions-in-javascript" title="High Order Functions in JavaScript"><strong>High Order Functions in JavaScript</strong></a>
+<div><strong>9 June 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> As a JavaScript developer you will utilize high order functions frequently, so having a decent comprehension of these functions is vital. Presently I see individuals get frequently confounded when finding out about the reduce() technique, yet I had c... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/navigation-with-react-router-1" title="Navigation with React Router"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1623120018574/vnl-Mrx06.png" alt="Navigation with React Router" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/navigation-with-react-router-1" title="Navigation with React Router"><strong>Navigation with React Router</strong></a>
 <div><strong>8 June 2021</strong> | <strong>1 Jan 1970</strong></div>
@@ -59,11 +64,6 @@ let result = array.reduce((acc, v, i, a) => {
 Sometimes we may decide to execute a function after a certain time delay. That's called  "scheduling a call". 
 
 setTime... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/all-you-need-to-know-about-high-order-functions-in-javascript" title="All you need to know about High Order Functions in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622531017814/ocUcE60bX.png" alt="All you need to know about High Order Functions in JavaScript" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/all-you-need-to-know-about-high-order-functions-in-javascript" title="All you need to know about High Order Functions in JavaScript"><strong>All you need to know about High Order Functions in JavaScript</strong></a>
-<div><strong>1 June 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> As a JavaScript developer you will utilize high order functions frequently, so having a decent comprehension of these functions is vital. Presently I see individuals get frequently confounded when finding out about the reduce() technique, yet I had c... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
