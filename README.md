@@ -23,6 +23,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/scope-chain-and-lexical-scoping-in-javascript" title="Scope chain and Lexical Scoping in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1623307732689/QNg8XO4ic.png" alt="Scope chain and Lexical Scoping in JavaScript" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/scope-chain-and-lexical-scoping-in-javascript" title="Scope chain and Lexical Scoping in JavaScript"><strong>Scope chain and Lexical Scoping in JavaScript</strong></a>
+<div><strong>10 June 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> Scope chain and Lexical Scoping are central ideas of JavaScript. These ideas confound new JavaScript developers. The information on these ideas is fundamental in dominating JavaScript. Having an appropriate comprehension of these ideas will assist yo... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/high-order-functions-in-javascript" title="High Order Functions in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1623206062798/w2nKzJ2IM.png" alt="High Order Functions in JavaScript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/high-order-functions-in-javascript" title="High Order Functions in JavaScript"><strong>High Order Functions in JavaScript</strong></a>
 <div><strong>9 June 2021</strong> | <strong>1 Jan 1970</strong></div>
@@ -56,14 +61,6 @@ let result = array.reduce((acc, v, i, a) => {
 }, initVal);
 
 /... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/what-is-scheduling-in-javascript-1" title="What is Scheduling in JavaScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622685114780/qHenBt6S8.png" alt="What is Scheduling in JavaScript?" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/what-is-scheduling-in-javascript-1" title="What is Scheduling in JavaScript?"><strong>What is Scheduling in JavaScript?</strong></a>
-<div><strong>3 June 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> Generally, these two things disturb and irritate a lot when learning JS. In this post, we'll learn how to use them as a beginner. 
-Sometimes we may decide to execute a function after a certain time delay. That's called  "scheduling a call". 
-
-setTime... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
