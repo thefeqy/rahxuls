@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React, Node.js and MongoDB**
 
-- 👨‍💻 My portfolio is available at [https://portfolio.rahulism.tech](https://portfolio.rahulism.tech/)
+- 👨‍💻 My portfolio is available at [https://rahulism.tech](https://rahulism.tech/)
 
-- 📝 I regularly write articles on [https://rahulism.tech](https://rahulism.tech)
+- 📝 I regularly write articles on [https://rahulism.hashnode.dev](https://rahulism.hashnode.dev)
 
 - 💬 Ask me about **JavaScript, React, Designing and Productivity**
 
