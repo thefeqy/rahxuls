@@ -23,6 +23,13 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/best-practices-for-api-design" title="Best Practices for API Design"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1625716094806/OOvb7uWWb.png" alt="Best Practices for API Design" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/best-practices-for-api-design" title="Best Practices for API Design"><strong>Best Practices for API Design</strong></a>
+<div><strong>8 July 2021</strong> | <strong>8 July 2021</strong></div>
+<br/> Well designed APIs = Happy Developers 😃
+APIs (Application Programming Interfaces) are interfaces that allow one application to use the data and resources of another. They are critical to a product's or company's success.
+Many of your favorite apps w... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/scope-chain-and-lexical-scoping-in-javascript" title="Scope chain and Lexical Scoping in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1623307732689/QNg8XO4ic.png" alt="Scope chain and Lexical Scoping in JavaScript" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/scope-chain-and-lexical-scoping-in-javascript" title="Scope chain and Lexical Scoping in JavaScript"><strong>Scope chain and Lexical Scoping in JavaScript</strong></a>
 <div><strong>10 June 2021</strong> | <strong>1 Jan 1970</strong></div>
@@ -51,16 +58,6 @@ const PageOne = () => {
 <br/> Hey, learners and beginners here are my latest post, where we gonna learn about the Page visibility and Full-Screen Mode WEB API. 
 Page visibility Web API
 PageVisibility API is used for detecting the visibility of the page. The document object provid... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/what-is-reduce-method-in-javascript" title="What is reduce() method in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622776519906/8DTVvU1FB.png" alt="What is reduce() method in JavaScript" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/what-is-reduce-method-in-javascript" title="What is reduce() method in JavaScript"><strong>What is reduce() method in JavaScript</strong></a>
-<div><strong>4 June 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> The reduce() method is used to apply a function to each element in the array to reduce the array to a single value.Let's see the syntax:- 
-let result = array.reduce((acc, v, i, a) => {
-  // return the new value to the result variable 
-}, initVal);
-
-/... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
