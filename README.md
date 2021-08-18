@@ -19,9 +19,9 @@
 
 <hr>
 
-<a href="https://fancy-fonts.com" target="_blank">Fancy Fonts</a>
-<a href="http://Coolfonts.cool" target="_blank">Cool Fonts</a>
-<a href="https://Fontchanger.top" target="_blank">Font changer</a>
+<a href="https://fancy-fonts.com" target="_blank">Fancy Fonts</a> <br>
+<a href="http://Coolfonts.cool" target="_blank">Cool Fonts</a> <br>
+<a href="https://Fontchanger.top" target="_blank">Font changer</a> <br>
 <a href="https://Stylishfonts.top" target="_blank">Stylish Fonts</a>
 
 ### My Recent Posts
