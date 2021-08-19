@@ -28,6 +28,14 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/top-4-amazing-font-generators-for-looking-cool-on-web" title="Top 4 Amazing font generators for looking cool on Web"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629263319703/YlYIC1Ahw.png" alt="Top 4 Amazing font generators for looking cool on Web" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/top-4-amazing-font-generators-for-looking-cool-on-web" title="Top 4 Amazing font generators for looking cool on Web"><strong>Top 4 Amazing font generators for looking cool on Web</strong></a>
+<div><strong>18 Aug 2021</strong> | <strong>18 Aug 2021</strong></div>
+<br/> Everyone want to look unique in some or other way, so in this post we'll know more about Typography and Some amazing typography font generators. Let's get totally into it. 
+
+So what Actually is Typography?
+Most importantly, typography is about conven... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/best-practices-for-api-design" title="Best Practices for API Design"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1625716094806/OOvb7uWWb.png" alt="Best Practices for API Design" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/best-practices-for-api-design" title="Best Practices for API Design"><strong>Best Practices for API Design</strong></a>
 <div><strong>8 July 2021</strong> | <strong>8 July 2021</strong></div>
@@ -56,13 +64,6 @@ const PageOne = () => {
     return (
         <>
     ... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/page-visibility-and-full-screen-mode-web-api-or-web-development-for-beginners" title="Page visibility and full-screen mode WEB API  | Web Development for Beginners"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622862318486/_CGBQkVX5.jpeg" alt="Page visibility and full-screen mode WEB API  | Web Development for Beginners" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/page-visibility-and-full-screen-mode-web-api-or-web-development-for-beginners" title="Page visibility and full-screen mode WEB API  | Web Development for Beginners"><strong>Page visibility and full-screen mode WEB API  | Web Development for Beginners</strong></a>
-<div><strong>5 June 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> Hey, learners and beginners here are my latest post, where we gonna learn about the Page visibility and Full-Screen Mode WEB API. 
-Page visibility Web API
-PageVisibility API is used for detecting the visibility of the page. The document object provid... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
