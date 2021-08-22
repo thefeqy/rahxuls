@@ -28,6 +28,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/mobile-security-testing-tools-mobsf-vs-competitors" title="Mobile Security Testing Tools: MobSF vs. Competitors"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629537948084/PPwvZPHFq.png" alt="Mobile Security Testing Tools: MobSF vs. Competitors" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/mobile-security-testing-tools-mobsf-vs-competitors" title="Mobile Security Testing Tools: MobSF vs. Competitors"><strong>Mobile Security Testing Tools: MobSF vs. Competitors</strong></a>
+<div><strong>21 Aug 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> Mobile Application Testing is a fundamental step in software application development where developers test the product for its functionality, security, performance, and accessibility. Security testing in a mobile application is requisite to prevent s... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/top-4-amazing-font-generators-for-looking-cool-on-web" title="Top 4 Amazing font generators for looking cool on Web"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629263319703/YlYIC1Ahw.png" alt="Top 4 Amazing font generators for looking cool on Web" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/top-4-amazing-font-generators-for-looking-cool-on-web" title="Top 4 Amazing font generators for looking cool on Web"><strong>Top 4 Amazing font generators for looking cool on Web</strong></a>
 <div><strong>18 Aug 2021</strong> | <strong>18 Aug 2021</strong></div>
@@ -52,18 +57,6 @@ Many of your favorite apps w... </p> <br/> <br/>
 <a href="https://rahulism.hashnode.dev/high-order-functions-in-javascript" title="High Order Functions in JavaScript"><strong>High Order Functions in JavaScript</strong></a>
 <div><strong>9 June 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> As a JavaScript developer you will utilize high order functions frequently, so having a decent comprehension of these functions is vital. Presently I see individuals get frequently confounded when finding out about the reduce() technique, yet I had c... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/navigation-with-react-router-1" title="Navigation with React Router"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1623120018574/vnl-Mrx06.png" alt="Navigation with React Router" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/navigation-with-react-router-1" title="Navigation with React Router"><strong>Navigation with React Router</strong></a>
-<div><strong>8 June 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> React Router is a simple library of React inside web app for handling routes. Here we will learn Navigation with React-Router. 
-
-Basic routing with react-router-dom
-Let's see these two Components. 
-const PageOne = () => {
-    return (
-        <>
-    ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
