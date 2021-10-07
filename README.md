@@ -28,6 +28,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rahulism.hashnode.dev/oss-is-future" title="Open Source is the future? Advantages and Disadvantages"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633496188535/BQF19iwpO.png" alt="Open Source is the future? Advantages and Disadvantages" width="250px" align="left" /></a>
+<a href="https://rahulism.hashnode.dev/oss-is-future" title="Open Source is the future? Advantages and Disadvantages"><strong>Open Source is the future? Advantages and Disadvantages</strong></a>
+<div><strong>6 Oct 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> Open source programming has been around for quite a while. At the point when it previously came out, open-source programming was seen as dangerous and juvenile. In any case, with the progression of time, an ever-increasing number of organizations beg... </p> <br/> <br/>
+<p align="left">
 <a href="https://rahulism.hashnode.dev/mobile-security-testing-tools-mobsf-vs-competitors" title="Mobile Security Testing Tools: MobSF vs. Competitors"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629537948084/PPwvZPHFq.png" alt="Mobile Security Testing Tools: MobSF vs. Competitors" width="250px" align="left" /></a>
 <a href="https://rahulism.hashnode.dev/mobile-security-testing-tools-mobsf-vs-competitors" title="Mobile Security Testing Tools: MobSF vs. Competitors"><strong>Mobile Security Testing Tools: MobSF vs. Competitors</strong></a>
 <div><strong>21 Aug 2021</strong> | <strong>1 Jan 1970</strong></div>
@@ -52,11 +57,6 @@ Many of your favorite apps w... </p> <br/> <br/>
 <a href="https://rahulism.hashnode.dev/scope-chain-and-lexical-scoping-in-javascript" title="Scope chain and Lexical Scoping in JavaScript"><strong>Scope chain and Lexical Scoping in JavaScript</strong></a>
 <div><strong>10 June 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Scope chain and Lexical Scoping are central ideas of JavaScript. These ideas confound new JavaScript developers. The information on these ideas is fundamental in dominating JavaScript. Having an appropriate comprehension of these ideas will assist yo... </p> <br/> <br/>
-<p align="left">
-<a href="https://rahulism.hashnode.dev/high-order-functions-in-javascript" title="High Order Functions in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1623206062798/w2nKzJ2IM.png" alt="High Order Functions in JavaScript" width="250px" align="left" /></a>
-<a href="https://rahulism.hashnode.dev/high-order-functions-in-javascript" title="High Order Functions in JavaScript"><strong>High Order Functions in JavaScript</strong></a>
-<div><strong>9 June 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> As a JavaScript developer you will utilize high order functions frequently, so having a decent comprehension of these functions is vital. Presently I see individuals get frequently confounded when finding out about the reduce() technique, yet I had c... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
