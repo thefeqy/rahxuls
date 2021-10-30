@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hustler</h3>
+
+<a href="https://app.daily.dev/rahxul"><img src="https://api.daily.dev/devcards/f1a881707fc947aeaf01e9d5a3ac45f5.png?r=21j" width="400" alt="Rahul's Dev Card"/></a>
 
 <p align="left"> <a href="https://twitter.com/rahxul" target="blank"><img src="https://img.shields.io/twitter/follow/rahxul?logo=twitter&style=for-the-badge" alt="rahxul" /></a> </p>
 
@@ -9,7 +11,7 @@
 
 - 👨‍💻 My portfolio is available at [https://rahulism.tech](https://rahulism.tech/)
 
-- 📝 I regularly write articles on [https://rahulism.hashnode.dev](https://rahulism.hashnode.dev)
+- 📝 I regularly write articles on [https://rahulism.hashnode.dev](https://devdojo.com/rahulism)
 
 - 💬 Ask me about **JavaScript, React, Designing and Productivity**
 
@@ -17,12 +19,7 @@
 
 - ⚡ Fun fact **I love pizza**
 
-<hr>
-
-<a href="https://fancy-fonts.com" target="_blank">Fancy Fonts</a> <br>
-<a href="http://Coolfonts.cool" target="_blank">Cool Fonts</a> <br>
-<a href="https://Fontchanger.top" target="_blank">Font changer</a> <br>
-<a href="https://Stylishfonts.top" target="_blank">Stylish Fonts</a>
+<hr> 
 
 ### My Recent Posts
 
