@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [Free JavaScript mine of resources](https://devdojo.com/rahulism/free-javascript-mine-of-resources)
 - [100+ Free front-end resources, learn and earn &lpar;repost&rpar;](https://devdojo.com/rahulism/100-free-front-end-resources-learn-and-earn-repost)
 - [Free 100+ MERN / MEAN Stack resources](https://devdojo.com/rahulism/free-100-mern-mean-stack-resources)
 - [API Design best practices](https://devdojo.com/rahulism/api-design-best-practices)
 - [Memoization in JavaScript - Shorts](https://devdojo.com/rahulism/memoization-in-javascript-shorts)
-- [State and React router - Shorts](https://devdojo.com/rahulism/state-and-react-router-shorts)
 <!-- DEVDOJO:END -->
 
 <hr>
