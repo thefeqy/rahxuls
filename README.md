@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [Currying in JS - shorts](https://devdojo.com/rahulism/currying-in-js-shorts)
 - [Scope chain and Lexical Scoping in JavaScript](https://devdojo.com/rahulism/scope-chain-and-lexical-scoping-in-javascript)
 - [Free JavaScript mine of resources](https://devdojo.com/rahulism/free-javascript-mine-of-resources)
 - [100+ Free front-end resources, learn and earn &lpar;repost&rpar;](https://devdojo.com/rahulism/100-free-front-end-resources-learn-and-earn-repost)
 - [Free 100+ MERN / MEAN Stack resources](https://devdojo.com/rahulism/free-100-mern-mean-stack-resources)
-- [API Design best practices](https://devdojo.com/rahulism/api-design-best-practices)
 <!-- DEVDOJO:END -->
 
 <hr>
