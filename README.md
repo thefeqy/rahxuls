@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [map&lpar;&rpar; in JS - shorts](https://devdojo.com/rahulism/map-in-js-shorts)
 - [Namespaces in JS - Shorts](https://devdojo.com/rahulism/namespaces-in-js-shorts)
 - [Blogging as a Developer Go To resources](https://devdojo.com/rahulism/blogging-as-a-developer-go-to-resources)
 - [Currying in JS - shorts](https://devdojo.com/rahulism/currying-in-js-shorts)
 - [Scope chain and Lexical Scoping in JavaScript](https://devdojo.com/rahulism/scope-chain-and-lexical-scoping-in-javascript)
-- [Free JavaScript mine of resources](https://devdojo.com/rahulism/free-javascript-mine-of-resources)
 <!-- DEVDOJO:END -->
 
 <hr>
