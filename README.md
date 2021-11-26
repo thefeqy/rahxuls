@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [reduce&lpar;&rpar; in JS - shorts](https://devdojo.com/rahulism/reduce-in-js-shorts)
 - [filter&lpar;&rpar; in JS - shorts](https://devdojo.com/rahulism/filter-in-js-shorts)
 - [map&lpar;&rpar; in JS - shorts](https://devdojo.com/rahulism/map-in-js-shorts)
 - [Namespaces in JS - Shorts](https://devdojo.com/rahulism/namespaces-in-js-shorts)
 - [Blogging as a Developer Go To resources](https://devdojo.com/rahulism/blogging-as-a-developer-go-to-resources)
-- [Currying in JS - shorts](https://devdojo.com/rahulism/currying-in-js-shorts)
 <!-- DEVDOJO:END -->
 
 <hr>
