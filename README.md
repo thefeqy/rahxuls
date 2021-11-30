@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [Symbol in JavaScript a primitive data type](https://devdojo.com/rahulism/symbol-in-javascript-a-primitive-data-type)
 - [reduce&lpar;&rpar; in JS - shorts](https://devdojo.com/rahulism/reduce-in-js-shorts)
 - [filter&lpar;&rpar; in JS - shorts](https://devdojo.com/rahulism/filter-in-js-shorts)
 - [map&lpar;&rpar; in JS - shorts](https://devdojo.com/rahulism/map-in-js-shorts)
 - [Namespaces in JS - Shorts](https://devdojo.com/rahulism/namespaces-in-js-shorts)
-- [Blogging as a Developer Go To resources](https://devdojo.com/rahulism/blogging-as-a-developer-go-to-resources)
 <!-- DEVDOJO:END -->
 
 <hr>
