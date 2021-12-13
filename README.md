@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [useRef in React - shorts](https://devdojo.com/rahulism/useref-in-react-shorts)
 - [useMemo in React - Shorts](https://devdojo.com/rahulism/usememo-in-react-shorts)
 - [useCallback in React - shorts](https://devdojo.com/rahulism/usecallback-in-react-shorts)
 - [functional components - shorts](https://devdojo.com/rahulism/functional-components-shorts)
 - [Classes in JS - shorts](https://devdojo.com/rahulism/classes-in-js-shorts)
-- [Symbol in JavaScript a primitive data type](https://devdojo.com/rahulism/symbol-in-javascript-a-primitive-data-type)
 <!-- DEVDOJO:END -->
 
 <hr>
