@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [useReducer in React - shorts](https://devdojo.com/rahulism/usereducer-in-react-shorts)
 - [useRef in React - shorts](https://devdojo.com/rahulism/useref-in-react-shorts)
 - [useMemo in React - Shorts](https://devdojo.com/rahulism/usememo-in-react-shorts)
 - [useCallback in React - shorts](https://devdojo.com/rahulism/usecallback-in-react-shorts)
 - [functional components - shorts](https://devdojo.com/rahulism/functional-components-shorts)
-- [Classes in JS - shorts](https://devdojo.com/rahulism/classes-in-js-shorts)
 <!-- DEVDOJO:END -->
 
 <hr>
