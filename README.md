@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [HTML in OT&lpar;operation theatre&rpar;](https://devdojo.com/rahulism/html-in-otoperation-theatre)
 - [list and keys in react - shorts](https://devdojo.com/rahulism/list-and-keys-in-react-shorts)
 - [useReducer in React - shorts](https://devdojo.com/rahulism/usereducer-in-react-shorts)
 - [useRef in React - shorts](https://devdojo.com/rahulism/useref-in-react-shorts)
 - [useMemo in React - Shorts](https://devdojo.com/rahulism/usememo-in-react-shorts)
-- [useCallback in React - shorts](https://devdojo.com/rahulism/usecallback-in-react-shorts)
 <!-- DEVDOJO:END -->
 
 <hr>
