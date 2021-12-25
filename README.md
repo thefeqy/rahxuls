@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [Namespaces in JS - Shorts](https://devdojo.com/rahulism/namespaces-in-js-shorts)
 - [11 Tools You Should Check If You Want To Automate Your Marketing Workflow In 2022](https://devdojo.com/rahulism/11-tools-you-should-check-if-you-want-to-automate-your-marketing-workflow-in-2022)
 - [Free resources for blogging as a developer](https://devdojo.com/rahulism/free-resources-for-blogging-as-a-developer)
 - [HTML in OT&lpar;operation theatre&rpar;](https://devdojo.com/rahulism/html-in-otoperation-theatre)
 - [list and keys in react - shorts](https://devdojo.com/rahulism/list-and-keys-in-react-shorts)
-- [useReducer in React - shorts](https://devdojo.com/rahulism/usereducer-in-react-shorts)
 <!-- DEVDOJO:END -->
 
 <hr>
