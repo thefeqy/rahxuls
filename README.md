@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [JSX in React - shorts](https://devdojo.com/rahulism/jsx-in-react-shorts)
 - [tail recursive function - shorts](https://devdojo.com/rahulism/tail-recursive-function-shorts)
 - [Shallow Copy and Deep Copy in JS](https://devdojo.com/rahulism/shallow-copy-and-deep-copy-in-js)
 - [Decorators and Object creation pattern in JS](https://devdojo.com/rahulism/decorators-and-object-creation-pattern-in-js)
 - [Namespaces in JS - Shorts](https://devdojo.com/rahulism/namespaces-in-js-shorts)
-- [11 Tools You Should Check If You Want To Automate Your Marketing Workflow In 2022](https://devdojo.com/rahulism/11-tools-you-should-check-if-you-want-to-automate-your-marketing-workflow-in-2022)
 <!-- DEVDOJO:END -->
 
 <hr>
