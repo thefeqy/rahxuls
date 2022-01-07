@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [21+ Super DevTools you may have not heard of](https://devdojo.com/rahulism/21-super-devtools-you-may-have-not-heard-of)
 - [7 Skills developers need on their resume](https://devdojo.com/rahulism/7-skills-developers-need-on-their-resume)
 - [Bigint in JS - shorts](https://devdojo.com/rahulism/bigint-in-js-shorts)
 - [JSX in React - shorts](https://devdojo.com/rahulism/jsx-in-react-shorts)
 - [tail recursive function - shorts](https://devdojo.com/rahulism/tail-recursive-function-shorts)
-- [Shallow Copy and Deep Copy in JS](https://devdojo.com/rahulism/shallow-copy-and-deep-copy-in-js)
 <!-- DEVDOJO:END -->
 
 <hr>
