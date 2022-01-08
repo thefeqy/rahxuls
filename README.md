@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [13 Ultimate UI/UX website inspiration for Designers and Developers](https://devdojo.com/rahulism/13-ultimate-uiux-website-inspiration-for-designers-and-developers)
 - [21+ Super DevTools you may have not heard of](https://devdojo.com/rahulism/21-super-devtools-you-may-have-not-heard-of)
 - [7 Skills developers need on their resume](https://devdojo.com/rahulism/7-skills-developers-need-on-their-resume)
 - [Bigint in JS - shorts](https://devdojo.com/rahulism/bigint-in-js-shorts)
 - [JSX in React - shorts](https://devdojo.com/rahulism/jsx-in-react-shorts)
-- [tail recursive function - shorts](https://devdojo.com/rahulism/tail-recursive-function-shorts)
 <!-- DEVDOJO:END -->
 
 <hr>
