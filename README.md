@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [30 JavaScript Libraries to use in your Projects](https://devdojo.com/rahulism/30-javascript-libraries-to-use-in-your-projects)
 - [13 Ultimate UI/UX website inspiration for Designers and Developers](https://devdojo.com/rahulism/13-ultimate-uiux-website-inspiration-for-designers-and-developers)
 - [21+ Super DevTools you may have not heard of](https://devdojo.com/rahulism/21-super-devtools-you-may-have-not-heard-of)
 - [7 Skills developers need on their resume](https://devdojo.com/rahulism/7-skills-developers-need-on-their-resume)
 - [Bigint in JS - shorts](https://devdojo.com/rahulism/bigint-in-js-shorts)
-- [JSX in React - shorts](https://devdojo.com/rahulism/jsx-in-react-shorts)
 <!-- DEVDOJO:END -->
 
 <hr>
