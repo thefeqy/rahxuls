@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [30 Notion templates for Remote Teams, Developers and Freelancers Productivity](https://devdojo.com/rahulism/30-notion-templates-for-remote-teams-developers-and-freelancers-productivity)
 - [30 JavaScript project ideas for Beginners to Pro developer with resources](https://devdojo.com/rahulism/30-javascript-project-ideas-for-beginners-to-pro-developer-with-resources)
 - [30 JavaScript Libraries to use in your Projects](https://devdojo.com/rahulism/30-javascript-libraries-to-use-in-your-projects)
 - [13 Ultimate UI/UX website inspiration for Designers and Developers](https://devdojo.com/rahulism/13-ultimate-uiux-website-inspiration-for-designers-and-developers)
 - [21+ Super DevTools you may have not heard of](https://devdojo.com/rahulism/21-super-devtools-you-may-have-not-heard-of)
-- [7 Skills developers need on their resume](https://devdojo.com/rahulism/7-skills-developers-need-on-their-resume)
 <!-- DEVDOJO:END -->
 
 <hr>
