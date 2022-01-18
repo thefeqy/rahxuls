@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [13+ Free Development Certification to get in 2021](https://devdojo.com/rahulism/13-free-development-certification-to-get-in-2021)
 - [22+ FREE JavaScript eBooks you should read](https://devdojo.com/rahulism/22-free-javascript-ebooks-you-should-read)
 - [50+ Shortcut links for Developers productivity](https://devdojo.com/rahulism/50-shortcut-links-for-developers-productivity)
 - [30 Notion templates for Remote Teams, Developers and Freelancers Productivity](https://devdojo.com/rahulism/30-notion-templates-for-remote-teams-developers-and-freelancers-productivity)
 - [30 JavaScript project ideas for Beginners to Pro developer with resources](https://devdojo.com/rahulism/30-javascript-project-ideas-for-beginners-to-pro-developer-with-resources)
-- [30 JavaScript Libraries to use in your Projects](https://devdojo.com/rahulism/30-javascript-libraries-to-use-in-your-projects)
 <!-- DEVDOJO:END -->
 
 <hr>
