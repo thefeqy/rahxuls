@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [HTML in OR&lpar;operation room&rpar;](https://devdojo.com/rahulism/html-in-oroperation-room)
+- [list and keys - react shorts](https://devdojo.com/rahulism/list-and-keys-react-shorts)
+- [Namespaces in JS - Shorts](https://devdojo.com/rahulism/namespaces-in-js-shorts)
+- [30 Notion templates for Remote Teams, Developers and Freelancers Productivity](https://devdojo.com/rahulism/30-notion-templates-for-remote-teams-developers-and-freelancers-productivity)
 - [useRef in React - shorts](https://devdojo.com/rahulism/useref-in-react-shorts-1)
-- [useReducer in React - shorts](https://devdojo.com/rahulism/usereducer-in-react-shorts)
-- [forEach&lpar;&rpar; in JS](https://devdojo.com/rahulism/foreach-in-js)
-- [21+ Super DevTools you may have not heard of](https://devdojo.com/rahulism/21-super-devtools-you-may-have-not-heard-of)
-- [320+ free resources for learning fullstack, frontend and backend](https://devdojo.com/rahulism/320-free-resources-for-learning-fullstack-frontend-and-backend)
 <!-- DEVDOJO:END -->
 
 <hr>
