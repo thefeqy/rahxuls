@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [reduce&lpar;&rpar; in JS - shorts](https://devdojo.com/rahulism/reduce-in-js-shorts-1)
+- [13+ Free Development Certification to get in 2021](https://devdojo.com/rahulism/13-free-development-certification-to-get-in-2021)
 - [HTML in OR&lpar;operation room&rpar;](https://devdojo.com/rahulism/html-in-oroperation-room)
 - [list and keys - react shorts](https://devdojo.com/rahulism/list-and-keys-react-shorts)
 - [Namespaces in JS - Shorts](https://devdojo.com/rahulism/namespaces-in-js-shorts)
-- [30 Notion templates for Remote Teams, Developers and Freelancers Productivity](https://devdojo.com/rahulism/30-notion-templates-for-remote-teams-developers-and-freelancers-productivity)
-- [useRef in React - shorts](https://devdojo.com/rahulism/useref-in-react-shorts-1)
 <!-- DEVDOJO:END -->
 
 <hr>
