@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [11 Free and Unique tools to create Awesome UI](https://devdojo.com/rahulism/11-free-and-unique-tools-to-create-awesome-ui)
+- [Unique and cool toolkit for developers + Big Bonus 😍😍](https://devdojo.com/rahulism/unique-and-cool-toolkit-for-developers-big-bonus-1)
 - [Brief intro to RxJS](https://devdojo.com/rahulism/brief-intro-to-rxjs)
 - [State and React router - Shorts](https://devdojo.com/rahulism/state-and-react-router-shorts)
 - [22+ FREE JavaScript eBooks you should read](https://devdojo.com/rahulism/22-free-javascript-ebooks-you-should-read)
-- [30 Notion templates for Remote Teams, Developers and Freelancers Productivity](https://devdojo.com/rahulism/30-notion-templates-for-remote-teams-developers-and-freelancers-productivity)
-- [reduce&lpar;&rpar; in JS - shorts](https://devdojo.com/rahulism/reduce-in-js-shorts-1)
 <!-- DEVDOJO:END -->
 
 <hr>
