@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [The brief intro to Recursive functions](https://devdojo.com/rahulism/the-brief-intro-to-recursive-functions-1)
+- [IIFE in JavaScript 🤓](https://devdojo.com/rahulism/iife-in-javascript-1)
 - [11 Free and Unique tools to create Awesome UI](https://devdojo.com/rahulism/11-free-and-unique-tools-to-create-awesome-ui)
 - [Unique and cool toolkit for developers + Big Bonus 😍😍](https://devdojo.com/rahulism/unique-and-cool-toolkit-for-developers-big-bonus-1)
 - [Brief intro to RxJS](https://devdojo.com/rahulism/brief-intro-to-rxjs)
-- [State and React router - Shorts](https://devdojo.com/rahulism/state-and-react-router-shorts)
-- [22+ FREE JavaScript eBooks you should read](https://devdojo.com/rahulism/22-free-javascript-ebooks-you-should-read)
 <!-- DEVDOJO:END -->
 
 <hr>
