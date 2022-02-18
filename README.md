@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [VS Code Extensions to increase productivity and time-saver hacks for developers](https://devdojo.com/rahulism/vs-code-extensions-to-increase-productivity-and-time-saver-hacks-for-developers-1)
+- [15 beginner only HTML and CSS mistakes](https://devdojo.com/rahulism/15-beginner-only-html-and-css-mistakes)
 - [The brief intro to Recursive functions](https://devdojo.com/rahulism/the-brief-intro-to-recursive-functions-1)
 - [IIFE in JavaScript 🤓](https://devdojo.com/rahulism/iife-in-javascript-1)
 - [11 Free and Unique tools to create Awesome UI](https://devdojo.com/rahulism/11-free-and-unique-tools-to-create-awesome-ui)
-- [Unique and cool toolkit for developers + Big Bonus 😍😍](https://devdojo.com/rahulism/unique-and-cool-toolkit-for-developers-big-bonus-1)
-- [Brief intro to RxJS](https://devdojo.com/rahulism/brief-intro-to-rxjs)
 <!-- DEVDOJO:END -->
 
 <hr>
