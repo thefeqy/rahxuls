@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [Tips and free resources to ace you Tech Interview](https://devdojo.com/rahulism/tips-and-free-resources-to-ace-you-tech-interview)
 - [10 Best Content Creation Tools For Growing Your Online Business Brand](https://devdojo.com/rahulism/10-best-content-creation-tools-for-growing-your-online-business-brand)
 - [Earn on web | Monetize yourself](https://devdojo.com/rahulism/earn-on-web-monetize-yourself)
 - [13+ Free Development Certification to get in 2021](https://devdojo.com/rahulism/13-free-development-certification-to-get-in-2021-1)
 - [VS Code Extensions to increase productivity and time-saver hacks for developers](https://devdojo.com/rahulism/vs-code-extensions-to-increase-productivity-and-time-saver-hacks-for-developers-1)
-- [15 beginner only HTML and CSS mistakes](https://devdojo.com/rahulism/15-beginner-only-html-and-css-mistakes)
 <!-- DEVDOJO:END -->
 
 <hr>
