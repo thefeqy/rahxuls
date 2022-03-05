@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [redux-thunk in shorts](https://devdojo.com/rahulism/redux-thunk-in-shorts)
+- [some&lpar;&rpar; method explained](https://devdojo.com/rahulism/some-method-explained)
 - [useState revised in React](https://devdojo.com/rahulism/usestate-revised-in-react)
 - [Hoisting in JavaScript | shorts](https://devdojo.com/rahulism/hoisting-in-javascript-shorts)
 - [Tips and free resources to ace you Tech Interview](https://devdojo.com/rahulism/tips-and-free-resources-to-ace-you-tech-interview)
-- [10 Best Content Creation Tools For Growing Your Online Business Brand](https://devdojo.com/rahulism/10-best-content-creation-tools-for-growing-your-online-business-brand)
-- [Earn on web | Monetize yourself](https://devdojo.com/rahulism/earn-on-web-monetize-yourself)
 <!-- DEVDOJO:END -->
 
 <hr>
