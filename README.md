@@ -23,11 +23,11 @@
 
 # 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
+- [what is webpack | shorts](https://devdojo.com/rahulism/what-is-webpack-shorts)
+- [portals in React | shorts](https://devdojo.com/rahulism/portals-in-react-shorts)
 - [redux-thunk in shorts](https://devdojo.com/rahulism/redux-thunk-in-shorts)
 - [some&lpar;&rpar; method explained](https://devdojo.com/rahulism/some-method-explained)
 - [useState revised in React](https://devdojo.com/rahulism/usestate-revised-in-react)
-- [Hoisting in JavaScript | shorts](https://devdojo.com/rahulism/hoisting-in-javascript-shorts)
-- [Tips and free resources to ace you Tech Interview](https://devdojo.com/rahulism/tips-and-free-resources-to-ace-you-tech-interview)
 <!-- DEVDOJO:END -->
 
 <hr>
