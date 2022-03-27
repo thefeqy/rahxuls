@@ -3,7 +3,7 @@
 
 <a href="https://app.daily.dev/rahxul"><img src="https://api.daily.dev/devcards/f1a881707fc947aeaf01e9d5a3ac45f5.png?r=21j" width="400" alt="Rahul's Dev Card"/></a>
 
-<p align="left"> <a href="https://twitter.com/rahxul" target="blank"><img src="https://img.shields.io/twitter/follow/rahxul?logo=twitter&style=for-the-badge" alt="rahxul" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rahoool__" target="blank"><img src="https://img.shields.io/twitter/follow/rahxul?logo=twitter&style=for-the-badge" alt="rahxul" /></a> </p>
 
 - 🔭 I’m currently working on **Many Things 🥺**
 
